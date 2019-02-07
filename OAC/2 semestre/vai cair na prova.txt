@@ -1,0 +1,4 @@
+8051 12MHz
+divide cada ciclo em 12 vezes, são 11MHz para arquitetura e 1MHz para a instrução , funciona a 1MHz
+cristal 12MHz porém o trabalho real é 1MHz
+1 / 1.000.000 segundos que é um microsegundo

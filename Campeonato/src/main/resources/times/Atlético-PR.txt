@@ -1,0 +1,3 @@
+Marcelo;2;Lateral-esquerdo
+Thiago Silva;4;Zagueiro
+Vandercleysson;9;Atacante

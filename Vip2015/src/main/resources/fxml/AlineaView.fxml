@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.cell.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="anchorPaneAlinea" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.AlineaViewController">
+    <stylesheets>
+        <URL value="@/styles/Styles.css" />
+    </stylesheets>
+   <children>
+      <BorderPane prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <bottom>
+            <VBox fx:id="vBoxCrud" alignment="CENTER" prefHeight="90.0" prefWidth="600.0">
+               <children>
+                  <Label fx:id="lblOperacao" />
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+                     <children>
+                        <VBox alignment="CENTER_LEFT" prefHeight="200.0" prefWidth="100.0">
+                           <children>
+                              <Label text="%lbl.codigo.text" />
+                              <TextField fx:id="txtFldCodigo" />
+                           </children>
+                           <padding>
+                              <Insets left="5.0" right="5.0" />
+                           </padding>
+                        </VBox>
+                        <VBox alignment="CENTER_LEFT" prefHeight="200.0" prefWidth="350.0">
+                           <children>
+                              <Label text="%lbl.nome.text" />
+                              <TextField fx:id="txtFldNome" />
+                           </children>
+                           <padding>
+                              <Insets left="5.0" right="5.0" />
+                           </padding>
+                        </VBox>
+                        <VBox alignment="CENTER" prefHeight="200.0" prefWidth="150.0">
+                           <children>
+                              <Button fx:id="btnConfirmar" mnemonicParsing="false" onAction="#btnConfirmarClick" prefWidth="100.0" text="%lbl.confirmar.text">
+                                 <VBox.margin>
+                                    <Insets bottom="5.0" />
+                                 </VBox.margin>
+                                 <graphic>
+                                    <FontAwesomeIconView fill="#07bc13" glyphName="CHECK" />
+                                 </graphic>
+                              </Button>
+                              <Button fx:id="btnCancelar" mnemonicParsing="false" onAction="#btnCancelarClick" prefWidth="100.0" text="%lbl.cancelar.text">
+                                 <VBox.margin>
+                                    <Insets top="5.0" />
+                                 </VBox.margin>
+                                 <graphic>
+                                    <FontAwesomeIconView fill="#bc1010" glyphName="TIMES" />
+                                 </graphic>
+                              </Button>
+                           </children>
+                        </VBox>
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </bottom>
+         <center>
+            <TableView fx:id="tblVwAlinea" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+               <columns>
+                  <TableColumn fx:id="colCodigoAlinea" maxWidth="75.0" minWidth="75.0" prefWidth="75.0" style="-fx-alignment: center-right;" text="%lbl.codigo.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="codigo" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colNomeAlinea" prefWidth="523.0" style="-fx-alignment: center;" text="%lbl.descricao.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="nome" />
+                     </cellValueFactory>
+                  </TableColumn>
+               </columns>
+            </TableView>
+         </center>
+         <top>
+            <HBox>
+               <children>
+                  <Button fx:id="btnIncluir" contentDisplay="TOP" mnemonicParsing="false" onAction="#acIncluirAlinea" prefWidth="70.0" text="%lbl.incluir.text" BorderPane.alignment="CENTER">
+                     <graphic>
+                        <FontAwesomeIconView fill="#07bc13" glyphName="PLUS" size="2EM" />
+                     </graphic></Button>
+                  <Button fx:id="btnAlterar" contentDisplay="TOP" mnemonicParsing="false" onAction="#acAlterarAlinea" prefWidth="70.0" text="%lbl.alterar.text">
+                     <graphic>
+                        <FontAwesomeIconView fill="#181897" glyphName="EDIT" size="2EM" />
+                     </graphic></Button>
+                  <Button fx:id="btnExcluir" contentDisplay="TOP" mnemonicParsing="false" onAction="#acExcluirAlinea" prefWidth="70.0" text="%lbl.excluir.text">
+                     <graphic>
+                        <FontAwesomeIconView fill="#bc1010" glyphName="CLOSE" size="2EM" />
+                     </graphic></Button>
+               </children>
+               <padding>
+                  <Insets bottom="2.0" left="2.0" top="2.0" />
+               </padding>
+            </HBox>
+         </top>
+      </BorderPane>
+   </children>
+</AnchorPane>

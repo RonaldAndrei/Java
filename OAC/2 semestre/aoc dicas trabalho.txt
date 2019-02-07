@@ -1,0 +1,4 @@
+dicas:
+para chamada instrução call
+retorno usar ret
+DJNZ (decrement jump not zero)

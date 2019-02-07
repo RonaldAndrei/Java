@@ -1,0 +1,12 @@
+Project=
+ProcessorType=1
+DefaultFindDir=C:\Users\ronald\Documents\UEPG\2º Ano\OAC\2 semestre
+SectorSize=64
+EnablePagedMemory=0
+PagedMemoryControlAddress=0
+NumberOfMemoryPages=1
+SignalType=0
+EnableAutoUpdate=0
+UpdateCount=1000
+Window=Register,Register1,,3,373,633,756
+Window=Port,Port1,,2,3,631,369

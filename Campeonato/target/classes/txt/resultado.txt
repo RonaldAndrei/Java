@@ -1,0 +1,2402 @@
+Dom Pedro II,1,Sobradinho,1
+Dom Pedro II,5,Sul América,0
+Dom Pedro II,2,Tocantinópolis,7
+Dom Pedro II,6,Treze - PB,7
+Dom Pedro II,0,Tubarão,5
+Dom Pedro II,5,Uniclinic,3
+Dom Pedro II,0,URT,2
+Dom Pedro II,1,Vasco da Gama ,3
+Dom Pedro II,1,Vasco da Gama-AC,6
+Dom Pedro II,7,Veranópolis,7
+Dom Pedro II,7,Vila Nova - GO,1
+Dom Pedro II,1,Villa Nova - MG,7
+Dom Pedro II,1,Volta Redonda ,6
+Dom Pedro II,4,Ypiranga-AP,7
+Esportivo,2,15 de Novembro,3
+Esportivo,1,A. A. Portuguesa,6
+Esportivo,5,ABC,2
+Esportivo,5,Alecrim,4
+Esportivo,5,Alegrense,4
+Esportivo,5,Alto Vale,2
+Esportivo,4,América - AM,1
+Esportivo,7,América - MG,0
+Esportivo,7,América - RN,3
+Esportivo,3,ASA - AL,5
+Esportivo,6,Atlético - BA,6
+Esportivo,2,Atlético - MG,2
+Esportivo,1,Atlético - GO,6
+Esportivo,1,Atlético - PR,6
+Esportivo,4,Avaí,3
+Esportivo,3,Avenida,5
+Esportivo,2,Bahia,4
+Esportivo,3,Bandeirante,6
+Esportivo,2,Bangu,3
+Esportivo,0,Botafogo - PB,5
+Esportivo,3,Botafogo - RJ,6
+Esportivo,4,Botafogo - SP,3
+Esportivo,4,Bragantino,0
+Esportivo,5,Brasil de Pelotas,1
+Esportivo,2,Brasília,0
+Esportivo,0,Brasiliense,6
+Esportivo,6,Brazlândia,2
+Esportivo,0,Cabo Frio,4
+Esportivo,4,Cachoeiro,1
+Esportivo,1,Caldas,7
+Esportivo,7,Chapecoense,0
+Esportivo,1,Colo Colo,3
+Esportivo,0,Criciúma,6
+Esportivo,6,Cruzeiro - BA,3
+Esportivo,2,Cruzeiro - MG,5
+Esportivo,4,Democrata,3
+Esportivo,4,Desportiva,7
+Esportivo,6,Dom Pedro II,7
+Esportivo,3,Estrela do Norte,1
+Esportivo,5,Fast,7
+Esportivo,1,Gama,2
+Esportivo,4,Goianésia,6
+Esportivo,5,Goiania,3
+Esportivo,1,Goiás,7
+Esportivo,3,Guará,3
+Esportivo,3,Guarani - MG,3
+Esportivo,1,Guarani - SP,0
+Esportivo,4,Guarany - CE,4
+Esportivo,6,Guarany - RS,5
+Esportivo,0,Íbis,1
+Esportivo,1,Inhumas,5
+Esportivo,0,Inter de Limeira,5
+Esportivo,1,Internacional-RS,4
+Esportivo,2,Internacional-SC,7
+Esportivo,7,Ipatinga,3
+Esportivo,3,Iraty,2
+Esportivo,3,Joinville,7
+Esportivo,3,Londrina,7
+Esportivo,2,Madureira,0
+Esportivo,7,Malutrom,1
+Esportivo,0,Mamoré,2
+Esportivo,3,Maranhão,3
+Esportivo,0,Marcílio Dias,0
+Esportivo,7,Libermorro,0
+Esportivo,2,Linhares,6
+Esportivo,4,Novo Hamburgo,4
+Esportivo,5,Novo Horizonte,0
+Esportivo,4,Olaria,1
+Esportivo,4,Piranhas,7
+Esportivo,4,Potiguar,4
+Esportivo,2,Paysandu,7
+Esportivo,6,Poções,2
+Esportivo,2,Ponte Preta,3
+Esportivo,0,Portuguesa,4
+Esportivo,0,Riachuelo,5
+Esportivo,5,Rio Branco - AC,6
+Esportivo,0,Rio Branco - ES,7
+Esportivo,2,Rioverdense,4
+Esportivo,0,River - PI,1
+Esportivo,4,Roraima,7
+Esportivo,1,Sampaio Corrêa,4
+Esportivo,0,São Paulo,3
+Esportivo,7,São Paulo - RS,5
+Esportivo,3,Serra,5
+Esportivo,6,Sobradinho,4
+Esportivo,7,Sul América,6
+Esportivo,4,Tocantinópolis,5
+Esportivo,5,Treze - PB,1
+Esportivo,7,Tubarão,4
+Esportivo,1,Uniclinic,3
+Esportivo,2,URT,3
+Esportivo,2,Vasco da Gama ,4
+Esportivo,5,Vasco da Gama-AC,5
+Esportivo,3,Veranópolis,3
+Esportivo,2,Vila Nova - GO,3
+Esportivo,3,Villa Nova - MG,1
+Esportivo,1,Volta Redonda ,7
+Esportivo,3,Ypiranga-AP,6
+Estrela do Norte,3,15 de Novembro,4
+Estrela do Norte,2,A. A. Portuguesa,3
+Estrela do Norte,1,ABC,3
+Estrela do Norte,7,Alecrim,2
+Estrela do Norte,6,Alegrense,1
+Estrela do Norte,4,Alto Vale,5
+Estrela do Norte,4,América - AM,5
+Estrela do Norte,6,América - MG,4
+Estrela do Norte,1,América - RN,1
+Estrela do Norte,3,ASA - AL,1
+Estrela do Norte,7,Atlético - BA,2
+Estrela do Norte,6,Atlético - MG,0
+Estrela do Norte,1,Atlético - GO,5
+Estrela do Norte,0,Atlético - PR,0
+Estrela do Norte,6,Avaí,2
+Estrela do Norte,4,Avenida,2
+Estrela do Norte,7,Bahia,7
+Estrela do Norte,5,Bandeirante,7
+Estrela do Norte,1,Bangu,5
+Estrela do Norte,7,Botafogo - PB,1
+Estrela do Norte,7,Botafogo - RJ,7
+Estrela do Norte,4,Botafogo - SP,1
+Estrela do Norte,4,Bragantino,0
+Estrela do Norte,3,Brasil de Pelotas,2
+Estrela do Norte,5,Brasília,2
+Estrela do Norte,1,Brasiliense,0
+Estrela do Norte,0,Brazlândia,2
+Estrela do Norte,5,Cabo Frio,5
+Estrela do Norte,5,Cachoeiro,3
+Estrela do Norte,5,Caldas,3
+Estrela do Norte,3,Chapecoense,5
+Estrela do Norte,2,Colo Colo,3
+Estrela do Norte,5,Criciúma,5
+Estrela do Norte,4,Cruzeiro - BA,3
+Estrela do Norte,2,Cruzeiro - MG,0
+Estrela do Norte,2,Democrata,7
+Estrela do Norte,4,Desportiva,2
+Estrela do Norte,5,Dom Pedro II,4
+Estrela do Norte,2,Esportivo,0
+Estrela do Norte,2,Fast,0
+Estrela do Norte,3,Gama,7
+Estrela do Norte,7,Goianésia,0
+Estrela do Norte,1,Goiania,2
+Estrela do Norte,1,Goiás,7
+Estrela do Norte,3,Guará,0
+Estrela do Norte,3,Guarani - MG,6
+Estrela do Norte,5,Guarani - SP,7
+Estrela do Norte,1,Guarany - CE,1
+Estrela do Norte,0,Guarany - RS,4
+Estrela do Norte,0,Íbis,5
+Estrela do Norte,7,Inhumas,6
+Estrela do Norte,3,Inter de Limeira,1
+Estrela do Norte,0,Internacional-RS,2
+Estrela do Norte,4,Internacional-SC,2
+Estrela do Norte,3,Ipatinga,6
+Estrela do Norte,6,Iraty,6
+Estrela do Norte,1,Joinville,6
+Estrela do Norte,7,Londrina,6
+Estrela do Norte,5,Madureira,1
+Estrela do Norte,1,Malutrom,4
+Estrela do Norte,1,Mamoré,0
+Estrela do Norte,7,Maranhão,6
+Estrela do Norte,6,Marcílio Dias,7
+Estrela do Norte,2,Libermorro,4
+Estrela do Norte,6,Linhares,7
+Estrela do Norte,4,Novo Hamburgo,4
+Estrela do Norte,6,Novo Horizonte,1
+Estrela do Norte,3,Olaria,7
+Estrela do Norte,6,Piranhas,4
+Estrela do Norte,3,Potiguar,0
+Estrela do Norte,2,Paysandu,2
+Estrela do Norte,6,Poções,3
+Estrela do Norte,2,Ponte Preta,1
+Estrela do Norte,0,Portuguesa,7
+Estrela do Norte,7,Riachuelo,3
+Estrela do Norte,5,Rio Branco - AC,5
+Estrela do Norte,2,Rio Branco - ES,1
+Estrela do Norte,3,Rioverdense,0
+Estrela do Norte,4,River - PI,2
+Estrela do Norte,0,Roraima,1
+Estrela do Norte,1,Sampaio Corrêa,5
+Estrela do Norte,3,São Paulo,2
+Estrela do Norte,4,São Paulo - RS,1
+Estrela do Norte,5,Serra,2
+Estrela do Norte,7,Sobradinho,2
+Estrela do Norte,1,Sul América,3
+Estrela do Norte,7,Tocantinópolis,2
+Estrela do Norte,6,Treze - PB,2
+Estrela do Norte,2,Tubarão,1
+Estrela do Norte,0,Uniclinic,3
+Estrela do Norte,4,URT,6
+Estrela do Norte,6,Vasco da Gama ,3
+Estrela do Norte,2,Vasco da Gama-AC,2
+Estrela do Norte,2,Veranópolis,2
+Estrela do Norte,4,Vila Nova - GO,5
+Estrela do Norte,1,Villa Nova - MG,6
+Estrela do Norte,3,Volta Redonda ,2
+Estrela do Norte,3,Ypiranga-AP,4
+Fast,0,15 de Novembro,0
+Fast,2,A. A. Portuguesa,5
+Fast,3,ABC,5
+Fast,5,Alecrim,2
+Fast,4,Alegrense,5
+Fast,5,Alto Vale,7
+Fast,7,América - AM,2
+Fast,0,América - MG,5
+Fast,0,América - RN,4
+Fast,2,ASA - AL,5
+Fast,0,Atlético - BA,3
+Fast,2,Atlético - MG,0
+Fast,6,Atlético - GO,5
+Fast,0,Atlético - PR,1
+Fast,2,Avaí,0
+Fast,4,Avenida,5
+Fast,0,Bahia,3
+Fast,2,Bandeirante,0
+Fast,7,Bangu,7
+Fast,3,Botafogo - PB,0
+Fast,3,Botafogo - RJ,2
+Fast,4,Botafogo - SP,3
+Fast,3,Bragantino,7
+Fast,2,Brasil de Pelotas,5
+Fast,0,Brasília,2
+Fast,0,Brasiliense,1
+Fast,5,Brazlândia,5
+Fast,6,Cabo Frio,2
+Fast,6,Cachoeiro,3
+Fast,4,Caldas,5
+Fast,1,Chapecoense,6
+Fast,7,Colo Colo,2
+Fast,4,Criciúma,3
+Fast,6,Cruzeiro - BA,1
+Fast,1,Cruzeiro - MG,3
+Fast,2,Democrata,5
+Fast,0,Desportiva,3
+Fast,1,Dom Pedro II,6
+Fast,2,Esportivo,7
+Fast,1,Estrela do Norte,1
+Fast,1,Gama,0
+Fast,6,Goianésia,0
+Fast,7,Goiania,1
+Fast,1,Goiás,4
+Fast,7,Guará,3
+Fast,6,Guarani - MG,7
+Fast,1,Guarani - SP,7
+Fast,6,Guarany - CE,6
+Fast,4,Guarany - RS,2
+Fast,0,Íbis,3
+Fast,5,Inhumas,7
+Fast,1,Inter de Limeira,5
+Fast,6,Internacional-RS,6
+Fast,0,Internacional-SC,2
+Fast,3,Ipatinga,6
+Fast,4,Iraty,6
+Fast,3,Joinville,1
+Fast,3,Londrina,4
+Fast,2,Madureira,4
+Fast,1,Malutrom,4
+Fast,5,Mamoré,5
+Fast,3,Maranhão,4
+Fast,2,Marcílio Dias,6
+Fast,6,Libermorro,7
+Fast,1,Linhares,0
+Fast,5,Novo Hamburgo,2
+Fast,4,Novo Horizonte,0
+Fast,5,Olaria,7
+Fast,3,Piranhas,4
+Fast,4,Potiguar,6
+Fast,6,Paysandu,7
+Fast,2,Poções,4
+Fast,4,Ponte Preta,2
+Fast,4,Portuguesa,5
+Fast,3,Riachuelo,2
+Fast,5,Rio Branco - AC,7
+Fast,4,Rio Branco - ES,2
+Fast,5,Rioverdense,4
+Fast,2,River - PI,7
+Fast,4,Roraima,7
+Fast,3,Sampaio Corrêa,5
+Fast,6,São Paulo,5
+Fast,7,São Paulo - RS,5
+Fast,0,Serra,0
+Fast,1,Sobradinho,0
+Fast,6,Sul América,0
+Fast,1,Tocantinópolis,0
+Fast,2,Treze - PB,1
+Fast,4,Tubarão,5
+Fast,7,Uniclinic,0
+Fast,2,URT,7
+Fast,5,Vasco da Gama ,6
+Fast,3,Vasco da Gama-AC,2
+Fast,0,Veranópolis,3
+Fast,7,Vila Nova - GO,7
+Fast,1,Villa Nova - MG,6
+Fast,5,Volta Redonda ,0
+Fast,3,Ypiranga-AP,3
+Gama,7,15 de Novembro,7
+Gama,0,A. A. Portuguesa,7
+Gama,1,ABC,4
+Gama,3,Alecrim,2
+Gama,1,Alegrense,5
+Gama,0,Alto Vale,3
+Gama,2,América - AM,7
+Gama,0,América - MG,1
+Gama,2,América - RN,3
+Gama,4,ASA - AL,4
+Gama,6,Atlético - BA,3
+Gama,5,Atlético - MG,4
+Gama,6,Atlético - GO,5
+Gama,4,Atlético - PR,5
+Gama,2,Avaí,7
+Gama,1,Avenida,0
+Gama,7,Bahia,6
+Gama,3,Bandeirante,2
+Gama,6,Bangu,6
+Gama,4,Botafogo - PB,1
+Gama,7,Botafogo - RJ,7
+Gama,7,Botafogo - SP,1
+Gama,1,Bragantino,7
+Gama,4,Brasil de Pelotas,0
+Gama,0,Brasília,6
+Gama,6,Brasiliense,1
+Gama,5,Brazlândia,3
+Gama,0,Cabo Frio,7
+Gama,7,Cachoeiro,0
+Gama,2,Caldas,5
+Gama,5,Chapecoense,7
+Gama,6,Colo Colo,0
+Gama,7,Criciúma,5
+Gama,4,Cruzeiro - BA,7
+Gama,2,Cruzeiro - MG,7
+Gama,4,Democrata,0
+Gama,0,Desportiva,3
+Gama,6,Dom Pedro II,3
+Gama,2,Esportivo,0
+Gama,6,Estrela do Norte,7
+Gama,4,Fast,0
+Gama,6,Goianésia,2
+Gama,7,Goiania,7
+Gama,7,Goiás,4
+Gama,5,Guará,2
+Gama,6,Guarani - MG,7
+Gama,1,Guarani - SP,4
+Gama,2,Guarany - CE,3
+Gama,0,Guarany - RS,7
+Gama,2,Íbis,5
+Gama,2,Inhumas,5
+Gama,1,Inter de Limeira,1
+Gama,2,Internacional-RS,6
+Gama,2,Internacional-SC,7
+Gama,6,Ipatinga,7
+Gama,4,Iraty,2
+Gama,2,Joinville,4
+Gama,7,Londrina,0
+Gama,3,Madureira,3
+Gama,7,Malutrom,6
+Gama,7,Mamoré,2
+Gama,6,Maranhão,3
+Gama,3,Marcílio Dias,1
+Gama,2,Libermorro,0
+Gama,5,Linhares,1
+Gama,4,Novo Hamburgo,3
+Gama,0,Novo Horizonte,6
+Gama,0,Olaria,6
+Gama,7,Piranhas,0
+Gama,5,Potiguar,4
+Gama,1,Paysandu,5
+Gama,0,Poções,6
+Gama,5,Ponte Preta,4
+Gama,7,Portuguesa,0
+Gama,2,Riachuelo,2
+Gama,6,Rio Branco - AC,2
+Gama,4,Rio Branco - ES,6
+Gama,3,Rioverdense,3
+Gama,1,River - PI,2
+Gama,2,Roraima,4
+Gama,6,Sampaio Corrêa,1
+Gama,6,São Paulo,6
+Gama,3,São Paulo - RS,6
+Gama,7,Serra,2
+Gama,0,Sobradinho,5
+Gama,2,Sul América,1
+Gama,5,Tocantinópolis,7
+Gama,5,Treze - PB,5
+Gama,7,Tubarão,6
+Gama,2,Uniclinic,1
+Gama,5,URT,6
+Gama,7,Vasco da Gama ,0
+Gama,7,Vasco da Gama-AC,0
+Gama,4,Veranópolis,0
+Gama,7,Vila Nova - GO,6
+Gama,0,Villa Nova - MG,3
+Gama,2,Volta Redonda ,5
+Gama,0,Ypiranga-AP,7
+Goianésia,6,15 de Novembro,1
+Goianésia,1,A. A. Portuguesa,4
+Goianésia,6,ABC,1
+Goianésia,5,Alecrim,7
+Goianésia,0,Alegrense,2
+Goianésia,6,Alto Vale,0
+Goianésia,0,América - AM,5
+Goianésia,2,América - MG,1
+Goianésia,5,América - RN,2
+Goianésia,0,ASA - AL,0
+Goianésia,7,Atlético - BA,7
+Goianésia,6,Atlético - MG,4
+Goianésia,4,Atlético - GO,0
+Goianésia,0,Atlético - PR,5
+Goianésia,7,Avaí,6
+Goianésia,1,Avenida,3
+Goianésia,2,Bahia,3
+Goianésia,2,Bandeirante,4
+Goianésia,1,Bangu,4
+Goianésia,2,Botafogo - PB,4
+Goianésia,5,Botafogo - RJ,3
+Goianésia,5,Botafogo - SP,4
+Goianésia,0,Bragantino,1
+Goianésia,7,Brasil de Pelotas,2
+Goianésia,6,Brasília,4
+Goianésia,1,Brasiliense,7
+Goianésia,3,Brazlândia,7
+Goianésia,5,Cabo Frio,1
+Goianésia,0,Cachoeiro,7
+Goianésia,6,Caldas,3
+Goianésia,2,Chapecoense,4
+Goianésia,6,Colo Colo,4
+Goianésia,2,Criciúma,4
+Goianésia,5,Cruzeiro - BA,5
+Goianésia,5,Cruzeiro - MG,2
+Goianésia,2,Democrata,1
+Goianésia,2,Desportiva,5
+Goianésia,5,Dom Pedro II,7
+Goianésia,4,Esportivo,2
+Goianésia,6,Estrela do Norte,0
+Goianésia,1,Fast,5
+Goianésia,2,Gama,2
+Goianésia,7,Goiania,1
+Goianésia,6,Goiás,0
+Goianésia,1,Guará,2
+Goianésia,7,Guarani - MG,1
+Goianésia,6,Guarani - SP,2
+Goianésia,1,Guarany - CE,5
+Goianésia,0,Guarany - RS,7
+Goianésia,6,Íbis,3
+Goianésia,7,Inhumas,5
+Goianésia,6,Inter de Limeira,4
+Goianésia,5,Internacional-RS,3
+Goianésia,6,Internacional-SC,3
+Goianésia,1,Ipatinga,0
+Goianésia,2,Iraty,4
+Goianésia,3,Joinville,5
+Goianésia,2,Londrina,0
+Goianésia,7,Madureira,5
+Goianésia,2,Malutrom,2
+Goianésia,0,Mamoré,6
+Goianésia,4,Maranhão,5
+Goianésia,4,Marcílio Dias,3
+Goianésia,1,Libermorro,2
+Goianésia,3,Linhares,4
+Goianésia,7,Novo Hamburgo,6
+Goianésia,1,Novo Horizonte,5
+Goianésia,0,Olaria,7
+Goianésia,4,Piranhas,6
+Goianésia,2,Potiguar,0
+Goianésia,1,Paysandu,5
+Goianésia,3,Poções,4
+Goianésia,0,Ponte Preta,0
+Goianésia,6,Portuguesa,3
+Goianésia,5,Riachuelo,6
+Goianésia,2,Rio Branco - AC,3
+Goianésia,6,Rio Branco - ES,2
+Goianésia,2,Rioverdense,6
+Goianésia,4,River - PI,3
+Goianésia,4,Roraima,7
+Goianésia,3,Sampaio Corrêa,3
+Goianésia,4,São Paulo,5
+Goianésia,6,São Paulo - RS,5
+Goianésia,4,Serra,0
+Goianésia,6,Sobradinho,6
+Goianésia,1,Sul América,6
+Goianésia,7,Tocantinópolis,4
+Goianésia,0,Treze - PB,2
+Goianésia,4,Tubarão,3
+Goianésia,6,Uniclinic,0
+Goianésia,2,URT,5
+Goianésia,1,Vasco da Gama ,3
+Goianésia,4,Vasco da Gama-AC,1
+Goianésia,2,Veranópolis,6
+Goianésia,6,Vila Nova - GO,0
+Goianésia,5,Villa Nova - MG,5
+Goianésia,2,Volta Redonda ,1
+Goianésia,4,Ypiranga-AP,4
+Goiania,4,15 de Novembro,0
+Goiania,1,A. A. Portuguesa,1
+Goiania,4,ABC,5
+Goiania,5,Alecrim,2
+Goiania,2,Alegrense,2
+Goiania,4,Alto Vale,3
+Goiania,4,América - AM,4
+Goiania,7,América - MG,3
+Goiania,4,América - RN,7
+Goiania,4,ASA - AL,6
+Goiania,4,Atlético - BA,0
+Goiania,0,Atlético - MG,3
+Goiania,7,Atlético - GO,1
+Goiania,4,Atlético - PR,4
+Goiania,1,Avaí,5
+Goiania,4,Avenida,1
+Goiania,4,Bahia,2
+Goiania,5,Bandeirante,0
+Goiania,5,Bangu,0
+Goiania,4,Botafogo - PB,7
+Goiania,1,Botafogo - RJ,3
+Goiania,0,Botafogo - SP,2
+Goiania,1,Bragantino,4
+Goiania,7,Brasil de Pelotas,7
+Goiania,4,Brasília,7
+Goiania,0,Brasiliense,5
+Goiania,2,Brazlândia,7
+Goiania,4,Cabo Frio,1
+Goiania,3,Cachoeiro,6
+Goiania,7,Caldas,4
+Goiania,3,Chapecoense,3
+Goiania,3,Colo Colo,2
+Goiania,1,Criciúma,1
+Goiania,1,Cruzeiro - BA,0
+Goiania,3,Cruzeiro - MG,7
+Goiania,7,Democrata,6
+Goiania,2,Desportiva,5
+Goiania,4,Dom Pedro II,3
+Goiania,5,Esportivo,0
+Goiania,2,Estrela do Norte,4
+Goiania,3,Fast,7
+Goiania,7,Gama,3
+Goiania,0,Goianésia,2
+Goiania,1,Goiás,1
+Goiania,5,Guará,7
+Goiania,3,Guarani - MG,3
+Goiania,3,Guarani - SP,0
+Goiania,3,Guarany - CE,1
+Goiania,1,Guarany - RS,5
+Goiania,1,Íbis,0
+Goiania,7,Inhumas,5
+Goiania,6,Inter de Limeira,7
+Goiania,1,Internacional-RS,2
+Goiania,5,Internacional-SC,2
+Goiania,4,Ipatinga,7
+Goiania,7,Iraty,0
+Goiania,7,Joinville,3
+Goiania,1,Londrina,3
+Goiania,2,Madureira,1
+Goiania,0,Malutrom,6
+Goiania,6,Mamoré,7
+Goiania,0,Maranhão,4
+Goiania,3,Marcílio Dias,7
+Goiania,3,Libermorro,2
+Goiania,5,Linhares,4
+Goiania,1,Novo Hamburgo,1
+Goiania,4,Novo Horizonte,0
+Goiania,6,Olaria,7
+Goiania,0,Piranhas,0
+Goiania,4,Potiguar,3
+Goiania,3,Paysandu,3
+Goiania,7,Poções,1
+Goiania,1,Ponte Preta,5
+Goiania,1,Portuguesa,0
+Goiania,5,Riachuelo,4
+Goiania,0,Rio Branco - AC,5
+Goiania,7,Rio Branco - ES,1
+Goiania,5,Rioverdense,5
+Goiania,2,River - PI,1
+Goiania,6,Roraima,1
+Goiania,0,Sampaio Corrêa,0
+Goiania,6,São Paulo,3
+Goiania,4,São Paulo - RS,3
+Goiania,6,Serra,2
+Goiania,2,Sobradinho,3
+Goiania,1,Sul América,2
+Goiania,4,Tocantinópolis,4
+Goiania,0,Treze - PB,7
+Goiania,1,Tubarão,6
+Goiania,5,Uniclinic,3
+Goiania,6,URT,2
+Goiania,4,Vasco da Gama ,2
+Goiania,6,Vasco da Gama-AC,1
+Goiania,0,Veranópolis,1
+Goiania,2,Vila Nova - GO,0
+Goiania,0,Villa Nova - MG,7
+Goiania,7,Volta Redonda ,2
+Goiania,1,Ypiranga-AP,1
+Goiás,3,15 de Novembro,1
+Goiás,5,A. A. Portuguesa,1
+Goiás,5,ABC,4
+Goiás,1,Alecrim,6
+Goiás,7,Alegrense,1
+Goiás,5,Alto Vale,6
+Goiás,7,América - AM,1
+Goiás,2,América - MG,1
+Goiás,4,América - RN,1
+Goiás,1,ASA - AL,2
+Goiás,1,Atlético - BA,5
+Goiás,3,Atlético - MG,5
+Goiás,3,Atlético - GO,5
+Goiás,4,Atlético - PR,6
+Goiás,3,Avaí,7
+Goiás,2,Avenida,1
+Goiás,5,Bahia,3
+Goiás,1,Bandeirante,5
+Goiás,1,Bangu,0
+Goiás,1,Botafogo - PB,0
+Goiás,7,Botafogo - RJ,6
+Goiás,2,Botafogo - SP,2
+Goiás,0,Bragantino,1
+Goiás,1,Brasil de Pelotas,3
+Goiás,3,Brasília,6
+Goiás,1,Brasiliense,4
+Goiás,3,Brazlândia,3
+Goiás,5,Cabo Frio,4
+Goiás,2,Cachoeiro,0
+Goiás,6,Caldas,1
+Goiás,0,Chapecoense,2
+Goiás,4,Colo Colo,7
+Goiás,7,Criciúma,3
+Goiás,6,Cruzeiro - BA,4
+Goiás,2,Cruzeiro - MG,4
+Goiás,1,Democrata,7
+Goiás,5,Desportiva,3
+Goiás,1,Dom Pedro II,2
+Goiás,1,Esportivo,4
+Goiás,3,Estrela do Norte,7
+Goiás,5,Fast,7
+Goiás,2,Gama,0
+Goiás,6,Goianésia,3
+Goiás,5,Goiania,6
+Goiás,6,Guará,6
+Goiás,7,Guarani - MG,7
+Goiás,3,Guarani - SP,1
+Goiás,5,Guarany - CE,3
+Goiás,7,Guarany - RS,0
+Goiás,2,Íbis,1
+Goiás,5,Inhumas,6
+Goiás,6,Inter de Limeira,6
+Goiás,5,Internacional-RS,3
+Goiás,5,Internacional-SC,0
+Goiás,5,Ipatinga,7
+Goiás,4,Iraty,6
+Goiás,7,Joinville,6
+Goiás,4,Londrina,4
+Goiás,5,Madureira,5
+Goiás,4,Malutrom,5
+Goiás,5,Mamoré,6
+Goiás,4,Maranhão,1
+Goiás,3,Marcílio Dias,3
+Goiás,1,Libermorro,6
+Goiás,2,Linhares,2
+Goiás,2,Novo Hamburgo,0
+Goiás,5,Novo Horizonte,6
+Goiás,5,Olaria,4
+Goiás,3,Piranhas,1
+Goiás,7,Potiguar,7
+Goiás,4,Paysandu,3
+Goiás,0,Poções,4
+Goiás,3,Ponte Preta,7
+Goiás,4,Portuguesa,2
+Goiás,6,Riachuelo,5
+Goiás,5,Rio Branco - AC,0
+Goiás,1,Rio Branco - ES,5
+Goiás,3,Rioverdense,7
+Goiás,5,River - PI,7
+Goiás,0,Roraima,3
+Goiás,7,Sampaio Corrêa,6
+Goiás,1,São Paulo,0
+Goiás,1,São Paulo - RS,4
+Goiás,0,Serra,4
+Goiás,3,Sobradinho,7
+Goiás,2,Sul América,5
+Goiás,1,Tocantinópolis,6
+Goiás,7,Treze - PB,5
+Goiás,2,Tubarão,2
+Goiás,1,Uniclinic,4
+Goiás,1,URT,4
+Goiás,5,Vasco da Gama ,1
+Goiás,1,Vasco da Gama-AC,6
+Goiás,1,Veranópolis,0
+Goiás,6,Vila Nova - GO,6
+Goiás,5,Villa Nova - MG,2
+Goiás,5,Volta Redonda ,3
+Goiás,4,Ypiranga-AP,0
+Guará,3,15 de Novembro,2
+Guará,6,A. A. Portuguesa,6
+Guará,1,ABC,1
+Guará,6,Alecrim,1
+Guará,1,Alegrense,4
+Guará,7,Alto Vale,5
+Guará,5,América - AM,2
+Guará,0,América - MG,1
+Guará,2,América - RN,7
+Guará,1,ASA - AL,2
+Guará,0,Atlético - BA,6
+Guará,5,Atlético - MG,1
+Guará,6,Atlético - GO,2
+Guará,1,Atlético - PR,6
+Guará,4,Avaí,4
+Guará,6,Avenida,5
+Guará,7,Bahia,2
+Guará,4,Bandeirante,4
+Guará,4,Bangu,6
+Guará,5,Botafogo - PB,4
+Guará,3,Botafogo - RJ,4
+Guará,3,Botafogo - SP,7
+Guará,6,Bragantino,5
+Guará,7,Brasil de Pelotas,0
+Guará,5,Brasília,4
+Guará,2,Brasiliense,4
+Guará,6,Brazlândia,6
+Guará,1,Cabo Frio,4
+Guará,7,Cachoeiro,6
+Guará,1,Caldas,0
+Guará,5,Chapecoense,6
+Guará,3,Colo Colo,1
+Guará,4,Criciúma,1
+Guará,3,Cruzeiro - BA,6
+Guará,1,Cruzeiro - MG,6
+Guará,7,Democrata,3
+Guará,1,Desportiva,5
+Guará,7,Dom Pedro II,0
+Guará,0,Esportivo,4
+Guará,3,Estrela do Norte,5
+Guará,4,Fast,1
+Guará,0,Gama,7
+Guará,0,Goianésia,0
+Guará,4,Goiania,3
+Guará,0,Goiás,0
+Guará,5,Guarani - MG,2
+Guará,1,Guarani - SP,2
+Guará,4,Guarany - CE,6
+Guará,5,Guarany - RS,4
+Guará,5,Íbis,0
+Guará,1,Inhumas,1
+Guará,5,Inter de Limeira,4
+Guará,7,Internacional-RS,2
+Guará,7,Internacional-SC,3
+Guará,7,Ipatinga,4
+Guará,0,Iraty,0
+Guará,0,Joinville,5
+Guará,7,Londrina,7
+Guará,5,Madureira,5
+Guará,0,Malutrom,3
+Guará,0,Mamoré,2
+Guará,2,Maranhão,7
+Guará,1,Marcílio Dias,4
+Guará,6,Libermorro,3
+Guará,4,Linhares,0
+Guará,7,Novo Hamburgo,1
+Guará,0,Novo Horizonte,4
+Guará,6,Olaria,6
+Guará,6,Piranhas,3
+Guará,2,Potiguar,5
+Guará,7,Paysandu,4
+Guará,3,Poções,3
+Guará,1,Ponte Preta,1
+Guará,2,Portuguesa,4
+Guará,6,Riachuelo,4
+Guará,3,Rio Branco - AC,4
+Guará,2,Rio Branco - ES,6
+Guará,4,Rioverdense,1
+Guará,1,River - PI,3
+Guará,0,Roraima,4
+Guará,2,Sampaio Corrêa,5
+Guará,5,São Paulo,5
+Guará,1,São Paulo - RS,5
+Guará,2,Serra,4
+Guará,0,Sobradinho,3
+Guará,0,Sul América,1
+Guará,4,Tocantinópolis,7
+Guará,7,Treze - PB,3
+Guará,5,Tubarão,7
+Guará,1,Uniclinic,2
+Guará,2,URT,4
+Guará,5,Vasco da Gama ,6
+Guará,3,Vasco da Gama-AC,1
+Guará,5,Veranópolis,2
+Guará,2,Vila Nova - GO,0
+Guará,6,Villa Nova - MG,4
+Guará,6,Volta Redonda ,3
+Guará,6,Ypiranga-AP,4
+Guarani - MG,2,15 de Novembro,0
+Guarani - MG,6,A. A. Portuguesa,1
+Guarani - MG,0,ABC,7
+Guarani - MG,4,Alecrim,6
+Guarani - MG,4,Alegrense,2
+Guarani - MG,1,Alto Vale,5
+Guarani - MG,1,América - AM,2
+Guarani - MG,2,América - MG,0
+Guarani - MG,3,América - RN,3
+Guarani - MG,4,ASA - AL,6
+Guarani - MG,3,Atlético - BA,5
+Guarani - MG,1,Atlético - MG,5
+Guarani - MG,2,Atlético - GO,3
+Guarani - MG,1,Atlético - PR,7
+Guarani - MG,7,Avaí,4
+Guarani - MG,3,Avenida,2
+Guarani - MG,7,Bahia,0
+Guarani - MG,5,Bandeirante,6
+Guarani - MG,7,Bangu,4
+Guarani - MG,0,Botafogo - PB,6
+Guarani - MG,5,Botafogo - RJ,6
+Guarani - MG,2,Botafogo - SP,4
+Guarani - MG,7,Bragantino,6
+Guarani - MG,1,Brasil de Pelotas,2
+Guarani - MG,2,Brasília,7
+Guarani - MG,0,Brasiliense,0
+Guarani - MG,6,Brazlândia,3
+Guarani - MG,7,Cabo Frio,4
+Guarani - MG,3,Cachoeiro,2
+Guarani - MG,1,Caldas,2
+Guarani - MG,1,Chapecoense,3
+Guarani - MG,7,Colo Colo,7
+Guarani - MG,1,Criciúma,2
+Guarani - MG,1,Cruzeiro - BA,2
+Guarani - MG,5,Cruzeiro - MG,0
+Guarani - MG,2,Democrata,7
+Guarani - MG,5,Desportiva,7
+Guarani - MG,6,Dom Pedro II,0
+Guarani - MG,3,Esportivo,0
+Guarani - MG,6,Estrela do Norte,2
+Guarani - MG,1,Fast,2
+Guarani - MG,5,Gama,4
+Guarani - MG,7,Goianésia,0
+Guarani - MG,7,Goiania,3
+Guarani - MG,3,Goiás,1
+Guarani - MG,7,Guará,4
+Guarani - MG,0,Guarani - SP,2
+Guarani - MG,4,Guarany - CE,0
+Guarani - MG,2,Guarany - RS,5
+Guarani - MG,2,Íbis,7
+Guarani - MG,1,Inhumas,4
+Guarani - MG,0,Inter de Limeira,6
+Guarani - MG,4,Internacional-RS,4
+Guarani - MG,7,Internacional-SC,7
+Guarani - MG,4,Ipatinga,7
+Guarani - MG,0,Iraty,2
+Guarani - MG,5,Joinville,2
+Guarani - MG,3,Londrina,4
+Guarani - MG,7,Madureira,5
+Guarani - MG,3,Malutrom,3
+Guarani - MG,0,Mamoré,7
+Guarani - MG,3,Maranhão,0
+Guarani - MG,5,Marcílio Dias,0
+Guarani - MG,2,Libermorro,5
+Guarani - MG,5,Linhares,3
+Guarani - MG,5,Novo Hamburgo,3
+Guarani - MG,0,Novo Horizonte,7
+Guarani - MG,3,Olaria,0
+Guarani - MG,1,Piranhas,7
+Guarani - MG,0,Potiguar,7
+Guarani - MG,3,Paysandu,2
+Guarani - MG,4,Poções,5
+Guarani - MG,6,Ponte Preta,0
+Guarani - MG,5,Portuguesa,4
+Guarani - MG,1,Riachuelo,2
+Guarani - MG,6,Rio Branco - AC,1
+Guarani - MG,7,Rio Branco - ES,5
+Guarani - MG,5,Rioverdense,1
+Guarani - MG,2,River - PI,2
+Guarani - MG,5,Roraima,3
+Guarani - MG,7,Sampaio Corrêa,5
+Guarani - MG,0,São Paulo,5
+Guarani - MG,4,São Paulo - RS,4
+Guarani - MG,6,Serra,1
+Guarani - MG,5,Sobradinho,6
+Guarani - MG,1,Sul América,2
+Guarani - MG,5,Tocantinópolis,1
+Guarani - MG,3,Treze - PB,6
+Guarani - MG,3,Tubarão,5
+Guarani - MG,3,Uniclinic,2
+Guarani - MG,1,URT,4
+Guarani - MG,4,Vasco da Gama ,7
+Guarani - MG,7,Vasco da Gama-AC,1
+Guarani - MG,5,Veranópolis,6
+Guarani - MG,5,Vila Nova - GO,0
+Guarani - MG,1,Villa Nova - MG,1
+Guarani - MG,3,Volta Redonda ,1
+Guarani - MG,7,Ypiranga-AP,6
+Guarani - SP,3,15 de Novembro,5
+Guarani - SP,3,A. A. Portuguesa,7
+Guarani - SP,1,ABC,2
+Guarani - SP,3,Alecrim,2
+Guarani - SP,6,Alegrense,7
+Guarani - SP,5,Alto Vale,6
+Guarani - SP,7,América - AM,3
+Guarani - SP,7,América - MG,6
+Guarani - SP,7,América - RN,3
+Guarani - SP,4,ASA - AL,1
+Guarani - SP,0,Atlético - BA,3
+Guarani - SP,0,Atlético - MG,5
+Guarani - SP,4,Atlético - GO,1
+Guarani - SP,5,Atlético - PR,6
+Guarani - SP,0,Avaí,6
+Guarani - SP,7,Avenida,0
+Guarani - SP,2,Bahia,7
+Guarani - SP,7,Bandeirante,7
+Guarani - SP,7,Bangu,5
+Guarani - SP,1,Botafogo - PB,6
+Guarani - SP,1,Botafogo - RJ,6
+Guarani - SP,7,Botafogo - SP,2
+Guarani - SP,1,Bragantino,2
+Guarani - SP,0,Brasil de Pelotas,3
+Guarani - SP,5,Brasília,7
+Guarani - SP,7,Brasiliense,2
+Guarani - SP,2,Brazlândia,5
+Guarani - SP,7,Cabo Frio,3
+Guarani - SP,4,Cachoeiro,7
+Guarani - SP,1,Caldas,2
+Guarani - SP,1,Chapecoense,0
+Guarani - SP,3,Colo Colo,2
+Guarani - SP,4,Criciúma,6
+Guarani - SP,3,Cruzeiro - BA,0
+Guarani - SP,0,Cruzeiro - MG,6
+Guarani - SP,2,Democrata,4
+Guarani - SP,2,Desportiva,2
+Guarani - SP,3,Dom Pedro II,3
+Guarani - SP,5,Esportivo,0
+Guarani - SP,6,Estrela do Norte,4
+Guarani - SP,1,Fast,3
+Guarani - SP,5,Gama,5
+Guarani - SP,6,Goianésia,6
+Guarani - SP,7,Goiania,3
+Guarani - SP,0,Goiás,5
+Guarani - SP,7,Guará,2
+Guarani - SP,0,Guarani - MG,5
+Guarani - SP,0,Guarany - CE,2
+Guarani - SP,5,Guarany - RS,1
+Guarani - SP,6,Íbis,5
+Guarani - SP,1,Inhumas,7
+Guarani - SP,6,Inter de Limeira,6
+Guarani - SP,7,Internacional-RS,0
+Guarani - SP,4,Internacional-SC,6
+Guarani - SP,4,Ipatinga,3
+Guarani - SP,0,Iraty,0
+Guarani - SP,2,Joinville,0
+Guarani - SP,2,Londrina,7
+Guarani - SP,4,Madureira,7
+Guarani - SP,6,Malutrom,4
+Guarani - SP,1,Mamoré,5
+Guarani - SP,0,Maranhão,7
+Guarani - SP,7,Marcílio Dias,1
+Guarani - SP,1,Libermorro,3
+Guarani - SP,3,Linhares,7
+Guarani - SP,2,Novo Hamburgo,6
+Guarani - SP,4,Novo Horizonte,6
+Guarani - SP,5,Olaria,6
+Guarani - SP,0,Piranhas,7
+Guarani - SP,5,Potiguar,5
+Guarani - SP,2,Paysandu,2
+Guarani - SP,7,Poções,0
+Guarani - SP,2,Ponte Preta,4
+Guarani - SP,4,Portuguesa,2
+Guarani - SP,6,Riachuelo,5
+Guarani - SP,2,Rio Branco - AC,6
+Guarani - SP,1,Rio Branco - ES,6
+Guarani - SP,4,Rioverdense,7
+Guarani - SP,3,River - PI,5
+Guarani - SP,0,Roraima,7
+Guarani - SP,1,Sampaio Corrêa,2
+Guarani - SP,4,São Paulo,7
+Guarani - SP,6,São Paulo - RS,1
+Guarani - SP,6,Serra,5
+Guarani - SP,3,Sobradinho,5
+Guarani - SP,4,Sul América,4
+Guarani - SP,3,Tocantinópolis,7
+Guarani - SP,7,Treze - PB,7
+Guarani - SP,5,Tubarão,2
+Guarani - SP,0,Uniclinic,4
+Guarani - SP,0,URT,0
+Guarani - SP,0,Vasco da Gama ,5
+Guarani - SP,5,Vasco da Gama-AC,4
+Guarani - SP,7,Veranópolis,2
+Guarani - SP,7,Vila Nova - GO,4
+Guarani - SP,1,Villa Nova - MG,6
+Guarani - SP,2,Volta Redonda ,2
+Guarani - SP,0,Ypiranga-AP,0
+Guarany - CE,4,15 de Novembro,5
+Guarany - CE,1,A. A. Portuguesa,7
+Guarany - CE,3,ABC,4
+Guarany - CE,1,Alecrim,6
+Guarany - CE,4,Alegrense,7
+Guarany - CE,1,Alto Vale,1
+Guarany - CE,4,América - AM,2
+Guarany - CE,7,América - MG,7
+Guarany - CE,4,América - RN,1
+Guarany - CE,5,ASA - AL,4
+Guarany - CE,4,Atlético - BA,0
+Guarany - CE,3,Atlético - MG,0
+Guarany - CE,0,Atlético - GO,7
+Guarany - CE,5,Atlético - PR,6
+Guarany - CE,5,Avaí,3
+Guarany - CE,6,Avenida,5
+Guarany - CE,2,Bahia,0
+Guarany - CE,4,Bandeirante,2
+Guarany - CE,5,Bangu,4
+Guarany - CE,3,Botafogo - PB,7
+Guarany - CE,0,Botafogo - RJ,4
+Guarany - CE,1,Botafogo - SP,6
+Guarany - CE,1,Bragantino,3
+Guarany - CE,3,Brasil de Pelotas,0
+Guarany - CE,6,Brasília,0
+Guarany - CE,5,Brasiliense,5
+Guarany - CE,1,Brazlândia,0
+Guarany - CE,7,Cabo Frio,0
+Guarany - CE,5,Cachoeiro,7
+Guarany - CE,6,Caldas,2
+Guarany - CE,3,Chapecoense,7
+Guarany - CE,6,Colo Colo,6
+Guarany - CE,0,Criciúma,3
+Guarany - CE,5,Cruzeiro - BA,6
+Guarany - CE,0,Cruzeiro - MG,1
+Guarany - CE,7,Democrata,2
+Guarany - CE,7,Desportiva,7
+Guarany - CE,7,Dom Pedro II,6
+Guarany - CE,0,Esportivo,5
+Guarany - CE,7,Estrela do Norte,4
+Guarany - CE,3,Fast,5
+Guarany - CE,4,Gama,5
+Guarany - CE,1,Goianésia,7
+Guarany - CE,2,Goiania,1
+Guarany - CE,1,Goiás,1
+Guarany - CE,6,Guará,6
+Guarany - CE,1,Guarani - MG,6
+Guarany - CE,2,Guarani - SP,0
+Guarany - CE,4,Guarany - RS,3
+Guarany - CE,2,Íbis,5
+Guarany - CE,7,Inhumas,6
+Guarany - CE,7,Inter de Limeira,5
+Guarany - CE,6,Internacional-RS,3
+Guarany - CE,5,Internacional-SC,6
+Guarany - CE,0,Ipatinga,1
+Guarany - CE,0,Iraty,6
+Guarany - CE,7,Joinville,3
+Guarany - CE,5,Londrina,4
+Guarany - CE,3,Madureira,6
+Guarany - CE,6,Malutrom,6
+Guarany - CE,6,Mamoré,6
+Guarany - CE,6,Maranhão,0
+Guarany - CE,6,Marcílio Dias,3
+Guarany - CE,7,Libermorro,2
+Guarany - CE,5,Linhares,7
+Guarany - CE,0,Novo Hamburgo,5
+Guarany - CE,7,Novo Horizonte,1
+Guarany - CE,2,Olaria,1
+Guarany - CE,5,Piranhas,6
+Guarany - CE,4,Potiguar,1
+Guarany - CE,4,Paysandu,4
+Guarany - CE,5,Poções,4
+Guarany - CE,0,Ponte Preta,4
+Guarany - CE,5,Portuguesa,4
+Guarany - CE,1,Riachuelo,2
+Guarany - CE,4,Rio Branco - AC,3
+Guarany - CE,1,Rio Branco - ES,2
+Guarany - CE,7,Rioverdense,1
+Guarany - CE,1,River - PI,0
+Guarany - CE,2,Roraima,2
+Guarany - CE,3,Sampaio Corrêa,2
+Guarany - CE,5,São Paulo,1
+Guarany - CE,5,São Paulo - RS,7
+Guarany - CE,7,Serra,5
+Guarany - CE,3,Sobradinho,0
+Guarany - CE,4,Sul América,1
+Guarany - CE,7,Tocantinópolis,7
+Guarany - CE,7,Treze - PB,1
+Guarany - CE,4,Tubarão,0
+Guarany - CE,6,Uniclinic,6
+Guarany - CE,0,URT,6
+Guarany - CE,2,Vasco da Gama ,4
+Guarany - CE,3,Vasco da Gama-AC,2
+Guarany - CE,7,Veranópolis,4
+Guarany - CE,0,Vila Nova - GO,3
+Guarany - CE,2,Villa Nova - MG,0
+Guarany - CE,7,Volta Redonda ,3
+Guarany - CE,6,Ypiranga-AP,5
+Guarany - RS,6,15 de Novembro,7
+Guarany - RS,1,A. A. Portuguesa,2
+Guarany - RS,1,ABC,7
+Guarany - RS,4,Alecrim,6
+Guarany - RS,2,Alegrense,2
+Guarany - RS,7,Alto Vale,4
+Guarany - RS,3,América - AM,5
+Guarany - RS,2,América - MG,3
+Guarany - RS,7,América - RN,1
+Guarany - RS,4,ASA - AL,7
+Guarany - RS,4,Atlético - BA,2
+Guarany - RS,1,Atlético - MG,4
+Guarany - RS,1,Atlético - GO,1
+Guarany - RS,0,Atlético - PR,2
+Guarany - RS,2,Avaí,1
+Guarany - RS,6,Avenida,2
+Guarany - RS,5,Bahia,3
+Guarany - RS,7,Bandeirante,0
+Guarany - RS,6,Bangu,0
+Guarany - RS,7,Botafogo - PB,4
+Guarany - RS,6,Botafogo - RJ,0
+Guarany - RS,1,Botafogo - SP,7
+Guarany - RS,4,Bragantino,4
+Guarany - RS,4,Brasil de Pelotas,7
+Guarany - RS,1,Brasília,1
+Guarany - RS,3,Brasiliense,5
+Guarany - RS,6,Brazlândia,4
+Guarany - RS,3,Cabo Frio,2
+Guarany - RS,4,Cachoeiro,1
+Guarany - RS,6,Caldas,0
+Guarany - RS,6,Chapecoense,2
+Guarany - RS,1,Colo Colo,6
+Guarany - RS,2,Criciúma,2
+Guarany - RS,0,Cruzeiro - BA,1
+Guarany - RS,6,Cruzeiro - MG,1
+Guarany - RS,1,Democrata,1
+Guarany - RS,7,Desportiva,3
+Guarany - RS,1,Dom Pedro II,2
+Guarany - RS,6,Esportivo,1
+Guarany - RS,5,Estrela do Norte,0
+Guarany - RS,1,Fast,7
+Guarany - RS,7,Gama,6
+Guarany - RS,1,Goianésia,3
+Guarany - RS,5,Goiania,5
+Guarany - RS,6,Goiás,1
+Guarany - RS,1,Guará,7
+Guarany - RS,5,Guarani - MG,5
+Guarany - RS,4,Guarani - SP,6
+Guarany - RS,6,Guarany - CE,1
+Guarany - RS,0,Íbis,3
+Guarany - RS,1,Inhumas,3
+Guarany - RS,4,Inter de Limeira,5
+Guarany - RS,5,Internacional-RS,2
+Guarany - RS,0,Internacional-SC,0
+Guarany - RS,4,Ipatinga,3
+Guarany - RS,7,Iraty,7
+Guarany - RS,0,Joinville,4
+Guarany - RS,4,Londrina,4
+Guarany - RS,2,Madureira,0
+Guarany - RS,4,Malutrom,1
+Guarany - RS,6,Mamoré,4
+Guarany - RS,5,Maranhão,0
+Guarany - RS,2,Marcílio Dias,4
+Guarany - RS,1,Libermorro,6
+Guarany - RS,0,Linhares,2
+Guarany - RS,2,Novo Hamburgo,1
+Guarany - RS,4,Novo Horizonte,3
+Guarany - RS,3,Olaria,3
+Guarany - RS,2,Piranhas,7
+Guarany - RS,5,Potiguar,0
+Guarany - RS,5,Paysandu,3
+Guarany - RS,4,Poções,4
+Guarany - RS,6,Ponte Preta,2
+Guarany - RS,4,Portuguesa,6
+Guarany - RS,2,Riachuelo,4
+Guarany - RS,1,Rio Branco - AC,4
+Guarany - RS,3,Rio Branco - ES,3
+Guarany - RS,2,Rioverdense,2
+Guarany - RS,2,River - PI,5
+Guarany - RS,4,Roraima,7
+Guarany - RS,3,Sampaio Corrêa,3
+Guarany - RS,3,São Paulo,2
+Guarany - RS,7,São Paulo - RS,2
+Guarany - RS,0,Serra,6
+Guarany - RS,0,Sobradinho,3
+Guarany - RS,3,Sul América,6
+Guarany - RS,5,Tocantinópolis,7
+Guarany - RS,2,Treze - PB,6
+Guarany - RS,2,Tubarão,3
+Guarany - RS,1,Uniclinic,7
+Guarany - RS,6,URT,4
+Guarany - RS,0,Vasco da Gama ,3
+Guarany - RS,2,Vasco da Gama-AC,2
+Guarany - RS,2,Veranópolis,3
+Guarany - RS,0,Vila Nova - GO,1
+Guarany - RS,6,Villa Nova - MG,7
+Guarany - RS,5,Volta Redonda ,2
+Guarany - RS,0,Ypiranga-AP,1
+Íbis,2,15 de Novembro,1
+Íbis,6,A. A. Portuguesa,5
+Íbis,1,ABC,4
+Íbis,4,Alecrim,0
+Íbis,6,Alegrense,7
+Íbis,4,Alto Vale,1
+Íbis,0,América - AM,6
+Íbis,6,América - MG,6
+Íbis,0,América - RN,2
+Íbis,1,ASA - AL,2
+Íbis,1,Atlético - BA,4
+Íbis,6,Atlético - MG,5
+Íbis,1,Atlético - GO,2
+Íbis,2,Atlético - PR,5
+Íbis,7,Avaí,5
+Íbis,5,Avenida,5
+Íbis,6,Bahia,0
+Íbis,5,Bandeirante,1
+Íbis,4,Bangu,5
+Íbis,7,Botafogo - PB,3
+Íbis,3,Botafogo - RJ,6
+Íbis,0,Botafogo - SP,7
+Íbis,4,Bragantino,0
+Íbis,7,Brasil de Pelotas,7
+Íbis,1,Brasília,0
+Íbis,6,Brasiliense,3
+Íbis,1,Brazlândia,1
+Íbis,3,Cabo Frio,6
+Íbis,3,Cachoeiro,1
+Íbis,2,Caldas,4
+Íbis,3,Chapecoense,4
+Íbis,1,Colo Colo,2
+Íbis,3,Criciúma,6
+Íbis,7,Cruzeiro - BA,4
+Íbis,7,Cruzeiro - MG,6
+Íbis,3,Democrata,6
+Íbis,7,Desportiva,3
+Íbis,7,Dom Pedro II,1
+Íbis,1,Esportivo,6
+Íbis,6,Estrela do Norte,0
+Íbis,3,Fast,6
+Íbis,7,Gama,5
+Íbis,6,Goianésia,4
+Íbis,7,Goiania,7
+Íbis,5,Goiás,7
+Íbis,6,Guará,6
+Íbis,1,Guarani - MG,2
+Íbis,2,Guarani - SP,6
+Íbis,4,Guarany - CE,2
+Íbis,5,Guarany - RS,2
+Íbis,7,Inhumas,4
+Íbis,7,Inter de Limeira,7
+Íbis,1,Internacional-RS,0
+Íbis,7,Internacional-SC,7
+Íbis,7,Ipatinga,2
+Íbis,1,Iraty,4
+Íbis,6,Joinville,6
+Íbis,6,Londrina,6
+Íbis,4,Madureira,7
+Íbis,0,Malutrom,7
+Íbis,4,Mamoré,2
+Íbis,1,Maranhão,2
+Íbis,5,Marcílio Dias,1
+Íbis,3,Libermorro,6
+Íbis,3,Linhares,1
+Íbis,7,Novo Hamburgo,3
+Íbis,0,Novo Horizonte,1
+Íbis,7,Olaria,2
+Íbis,4,Piranhas,1
+Íbis,7,Potiguar,4
+Íbis,7,Paysandu,4
+Íbis,4,Poções,5
+Íbis,7,Ponte Preta,4
+Íbis,2,Portuguesa,2
+Íbis,6,Riachuelo,2
+Íbis,0,Rio Branco - AC,6
+Íbis,1,Rio Branco - ES,1
+Íbis,2,Rioverdense,7
+Íbis,7,River - PI,3
+Íbis,5,Roraima,0
+Íbis,5,Sampaio Corrêa,0
+Íbis,4,São Paulo,0
+Íbis,4,São Paulo - RS,5
+Íbis,6,Serra,0
+Íbis,6,Sobradinho,6
+Íbis,6,Sul América,5
+Íbis,6,Tocantinópolis,7
+Íbis,0,Treze - PB,5
+Íbis,0,Tubarão,1
+Íbis,4,Uniclinic,3
+Íbis,7,URT,0
+Íbis,2,Vasco da Gama ,5
+Íbis,4,Vasco da Gama-AC,1
+Íbis,1,Veranópolis,1
+Íbis,0,Vila Nova - GO,7
+Íbis,7,Villa Nova - MG,1
+Íbis,2,Volta Redonda ,3
+Íbis,5,Ypiranga-AP,4
+Inhumas,2,15 de Novembro,4
+Inhumas,1,A. A. Portuguesa,5
+Inhumas,6,ABC,2
+Inhumas,2,Alecrim,1
+Inhumas,1,Alegrense,5
+Inhumas,5,Alto Vale,3
+Inhumas,6,América - AM,7
+Inhumas,2,América - MG,1
+Inhumas,5,América - RN,2
+Inhumas,2,ASA - AL,4
+Inhumas,5,Atlético - BA,7
+Inhumas,0,Atlético - MG,2
+Inhumas,4,Atlético - GO,1
+Inhumas,4,Atlético - PR,1
+Inhumas,2,Avaí,3
+Inhumas,1,Avenida,4
+Inhumas,4,Bahia,7
+Inhumas,0,Bandeirante,0
+Inhumas,4,Bangu,4
+Inhumas,0,Botafogo - PB,1
+Inhumas,5,Botafogo - RJ,3
+Inhumas,1,Botafogo - SP,5
+Inhumas,5,Bragantino,7
+Inhumas,4,Brasil de Pelotas,4
+Inhumas,7,Brasília,7
+Inhumas,5,Brasiliense,4
+Inhumas,6,Brazlândia,6
+Inhumas,4,Cabo Frio,3
+Inhumas,2,Cachoeiro,0
+Inhumas,7,Caldas,3
+Inhumas,7,Chapecoense,4
+Inhumas,7,Colo Colo,0
+Inhumas,6,Criciúma,6
+Inhumas,3,Cruzeiro - BA,0
+Inhumas,5,Cruzeiro - MG,4
+Inhumas,5,Democrata,2
+Inhumas,2,Desportiva,6
+Inhumas,5,Dom Pedro II,2
+Inhumas,4,Esportivo,0
+Inhumas,0,Estrela do Norte,5
+Inhumas,3,Fast,1
+Inhumas,4,Gama,5
+Inhumas,0,Goianésia,3
+Inhumas,5,Goiania,1
+Inhumas,3,Goiás,6
+Inhumas,7,Guará,0
+Inhumas,1,Guarani - MG,7
+Inhumas,4,Guarani - SP,1
+Inhumas,5,Guarany - CE,4
+Inhumas,4,Guarany - RS,4
+Inhumas,4,Íbis,7
+Inhumas,0,Inter de Limeira,7
+Inhumas,1,Internacional-RS,6
+Inhumas,1,Internacional-SC,6
+Inhumas,6,Ipatinga,0
+Inhumas,6,Iraty,2
+Inhumas,4,Joinville,2
+Inhumas,7,Londrina,7
+Inhumas,6,Madureira,4
+Inhumas,3,Malutrom,2
+Inhumas,5,Mamoré,2
+Inhumas,1,Maranhão,3
+Inhumas,5,Marcílio Dias,3
+Inhumas,1,Libermorro,2
+Inhumas,4,Linhares,3
+Inhumas,1,Novo Hamburgo,2
+Inhumas,0,Novo Horizonte,4
+Inhumas,3,Olaria,2
+Inhumas,3,Piranhas,2
+Inhumas,5,Potiguar,1
+Inhumas,5,Paysandu,6
+Inhumas,2,Poções,1
+Inhumas,5,Ponte Preta,6
+Inhumas,1,Portuguesa,4
+Inhumas,4,Riachuelo,6
+Inhumas,2,Rio Branco - AC,0
+Inhumas,3,Rio Branco - ES,0
+Inhumas,0,Rioverdense,6
+Inhumas,3,River - PI,0
+Inhumas,1,Roraima,2
+Inhumas,7,Sampaio Corrêa,0
+Inhumas,5,São Paulo,1
+Inhumas,4,São Paulo - RS,6
+Inhumas,3,Serra,3
+Inhumas,5,Sobradinho,3
+Inhumas,2,Sul América,1
+Inhumas,5,Tocantinópolis,6
+Inhumas,3,Treze - PB,4
+Inhumas,0,Tubarão,1
+Inhumas,6,Uniclinic,5
+Inhumas,5,URT,7
+Inhumas,2,Vasco da Gama ,4
+Inhumas,2,Vasco da Gama-AC,2
+Inhumas,4,Veranópolis,5
+Inhumas,0,Vila Nova - GO,4
+Inhumas,3,Villa Nova - MG,0
+Inhumas,3,Volta Redonda ,6
+Inhumas,1,Ypiranga-AP,0
+Inter de Limeira,1,15 de Novembro,4
+Inter de Limeira,5,A. A. Portuguesa,0
+Inter de Limeira,3,ABC,2
+Inter de Limeira,3,Alecrim,4
+Inter de Limeira,0,Alegrense,5
+Inter de Limeira,5,Alto Vale,5
+Inter de Limeira,3,América - AM,2
+Inter de Limeira,6,América - MG,2
+Inter de Limeira,6,América - RN,7
+Inter de Limeira,7,ASA - AL,5
+Inter de Limeira,4,Atlético - BA,6
+Inter de Limeira,3,Atlético - MG,7
+Inter de Limeira,0,Atlético - GO,6
+Inter de Limeira,3,Atlético - PR,7
+Inter de Limeira,1,Avaí,7
+Inter de Limeira,5,Avenida,6
+Inter de Limeira,2,Bahia,4
+Inter de Limeira,3,Bandeirante,4
+Inter de Limeira,1,Bangu,4
+Inter de Limeira,6,Botafogo - PB,2
+Inter de Limeira,4,Botafogo - RJ,4
+Inter de Limeira,5,Botafogo - SP,0
+Inter de Limeira,6,Bragantino,6
+Inter de Limeira,6,Brasil de Pelotas,5
+Inter de Limeira,4,Brasília,4
+Inter de Limeira,0,Brasiliense,0
+Inter de Limeira,0,Brazlândia,1
+Inter de Limeira,0,Cabo Frio,3
+Inter de Limeira,7,Cachoeiro,1
+Inter de Limeira,7,Caldas,2
+Inter de Limeira,7,Chapecoense,7
+Inter de Limeira,3,Colo Colo,3
+Inter de Limeira,3,Criciúma,5
+Inter de Limeira,0,Cruzeiro - BA,3
+Inter de Limeira,0,Cruzeiro - MG,4
+Inter de Limeira,7,Democrata,1
+Inter de Limeira,6,Desportiva,0
+Inter de Limeira,0,Dom Pedro II,6
+Inter de Limeira,4,Esportivo,7
+Inter de Limeira,1,Estrela do Norte,0
+Inter de Limeira,4,Fast,4
+Inter de Limeira,0,Gama,0
+Inter de Limeira,6,Goianésia,2
+Inter de Limeira,5,Goiania,1
+Inter de Limeira,3,Goiás,2
+Inter de Limeira,1,Guará,7
+Inter de Limeira,0,Guarani - MG,2
+Inter de Limeira,1,Guarani - SP,5
+Inter de Limeira,7,Guarany - CE,4
+Inter de Limeira,7,Guarany - RS,4
+Inter de Limeira,2,Íbis,0
+Inter de Limeira,0,Inhumas,7
+Inter de Limeira,3,Internacional-RS,1
+Inter de Limeira,3,Internacional-SC,0
+Inter de Limeira,3,Ipatinga,5
+Inter de Limeira,1,Iraty,3
+Inter de Limeira,5,Joinville,3
+Inter de Limeira,4,Londrina,7
+Inter de Limeira,4,Madureira,0
+Inter de Limeira,0,Malutrom,6
+Inter de Limeira,3,Mamoré,3
+Inter de Limeira,0,Maranhão,0
+Inter de Limeira,0,Marcílio Dias,6
+Inter de Limeira,2,Libermorro,6
+Inter de Limeira,4,Linhares,5
+Inter de Limeira,3,Novo Hamburgo,6
+Inter de Limeira,5,Novo Horizonte,5
+Inter de Limeira,2,Olaria,5
+Inter de Limeira,1,Piranhas,0
+Inter de Limeira,7,Potiguar,1
+Inter de Limeira,3,Paysandu,3
+Inter de Limeira,4,Poções,1
+Inter de Limeira,6,Ponte Preta,7
+Inter de Limeira,1,Portuguesa,5
+Inter de Limeira,7,Riachuelo,5
+Inter de Limeira,6,Rio Branco - AC,3
+Inter de Limeira,3,Rio Branco - ES,0
+Inter de Limeira,4,Rioverdense,7
+Inter de Limeira,1,River - PI,1
+Inter de Limeira,0,Roraima,3
+Inter de Limeira,6,Sampaio Corrêa,4
+Inter de Limeira,5,São Paulo,5
+Inter de Limeira,7,São Paulo - RS,5
+Inter de Limeira,1,Serra,1
+Inter de Limeira,1,Sobradinho,4
+Inter de Limeira,2,Sul América,7
+Inter de Limeira,7,Tocantinópolis,3
+Inter de Limeira,6,Treze - PB,2
+Inter de Limeira,6,Tubarão,0
+Inter de Limeira,2,Uniclinic,6
+Inter de Limeira,0,URT,4
+Inter de Limeira,2,Vasco da Gama ,6
+Inter de Limeira,5,Vasco da Gama-AC,0
+Inter de Limeira,3,Veranópolis,0
+Inter de Limeira,1,Vila Nova - GO,4
+Inter de Limeira,2,Villa Nova - MG,6
+Inter de Limeira,3,Volta Redonda ,2
+Inter de Limeira,7,Ypiranga-AP,4
+Internacional-RS,4,15 de Novembro,0
+Internacional-RS,0,A. A. Portuguesa,3
+Internacional-RS,0,ABC,5
+Internacional-RS,4,Alecrim,1
+Internacional-RS,5,Alegrense,4
+Internacional-RS,0,Alto Vale,2
+Internacional-RS,6,América - AM,2
+Internacional-RS,3,América - MG,7
+Internacional-RS,3,América - RN,7
+Internacional-RS,1,ASA - AL,7
+Internacional-RS,7,Atlético - BA,4
+Internacional-RS,6,Atlético - MG,2
+Internacional-RS,2,Atlético - GO,0
+Internacional-RS,4,Atlético - PR,5
+Internacional-RS,3,Avaí,3
+Internacional-RS,2,Avenida,3
+Internacional-RS,7,Bahia,7
+Internacional-RS,7,Bandeirante,1
+Internacional-RS,0,Bangu,7
+Internacional-RS,3,Botafogo - PB,2
+Internacional-RS,4,Botafogo - RJ,2
+Internacional-RS,3,Botafogo - SP,1
+Internacional-RS,6,Bragantino,5
+Internacional-RS,6,Brasil de Pelotas,1
+Internacional-RS,7,Brasília,3
+Internacional-RS,3,Brasiliense,4
+Internacional-RS,3,Brazlândia,4
+Internacional-RS,0,Cabo Frio,6
+Internacional-RS,6,Cachoeiro,7
+Internacional-RS,1,Caldas,1
+Internacional-RS,3,Chapecoense,4
+Internacional-RS,7,Colo Colo,2
+Internacional-RS,2,Criciúma,5
+Internacional-RS,5,Cruzeiro - BA,4
+Internacional-RS,1,Cruzeiro - MG,1
+Internacional-RS,7,Democrata,4
+Internacional-RS,0,Desportiva,4
+Internacional-RS,3,Dom Pedro II,2
+Internacional-RS,0,Esportivo,3
+Internacional-RS,6,Estrela do Norte,5
+Internacional-RS,3,Fast,5
+Internacional-RS,2,Gama,7
+Internacional-RS,0,Goianésia,7
+Internacional-RS,3,Goiania,7
+Internacional-RS,4,Goiás,4
+Internacional-RS,7,Guará,2
+Internacional-RS,5,Guarani - MG,2
+Internacional-RS,6,Guarani - SP,6
+Internacional-RS,6,Guarany - CE,7
+Internacional-RS,6,Guarany - RS,3
+Internacional-RS,5,Íbis,6
+Internacional-RS,3,Inhumas,7
+Internacional-RS,6,Inter de Limeira,2
+Internacional-RS,3,Internacional-SC,7
+Internacional-RS,6,Ipatinga,1
+Internacional-RS,5,Iraty,0
+Internacional-RS,5,Joinville,5
+Internacional-RS,6,Londrina,6
+Internacional-RS,2,Madureira,2
+Internacional-RS,2,Malutrom,2
+Internacional-RS,5,Mamoré,5
+Internacional-RS,6,Maranhão,1
+Internacional-RS,0,Marcílio Dias,7
+Internacional-RS,7,Libermorro,2
+Internacional-RS,0,Linhares,3
+Internacional-RS,2,Novo Hamburgo,6
+Internacional-RS,4,Novo Horizonte,2
+Internacional-RS,7,Olaria,2
+Internacional-RS,6,Piranhas,5
+Internacional-RS,3,Potiguar,3
+Internacional-RS,3,Paysandu,0
+Internacional-RS,5,Poções,7
+Internacional-RS,0,Ponte Preta,2
+Internacional-RS,6,Portuguesa,3
+Internacional-RS,1,Riachuelo,1
+Internacional-RS,3,Rio Branco - AC,7
+Internacional-RS,3,Rio Branco - ES,6
+Internacional-RS,7,Rioverdense,5
+Internacional-RS,5,River - PI,5
+Internacional-RS,2,Roraima,7
+Internacional-RS,7,Sampaio Corrêa,5
+Internacional-RS,1,São Paulo,5
+Internacional-RS,4,São Paulo - RS,7
+Internacional-RS,6,Serra,1
+Internacional-RS,2,Sobradinho,7
+Internacional-RS,1,Sul América,0
+Internacional-RS,2,Tocantinópolis,4
+Internacional-RS,0,Treze - PB,4
+Internacional-RS,0,Tubarão,4
+Internacional-RS,5,Uniclinic,2
+Internacional-RS,3,URT,2
+Internacional-RS,2,Vasco da Gama ,6
+Internacional-RS,5,Vasco da Gama-AC,7
+Internacional-RS,5,Veranópolis,7
+Internacional-RS,6,Vila Nova - GO,7
+Internacional-RS,7,Villa Nova - MG,5
+Internacional-RS,6,Volta Redonda ,7
+Internacional-RS,0,Ypiranga-AP,1
+Internacional-SC,6,15 de Novembro,6
+Internacional-SC,6,A. A. Portuguesa,6
+Internacional-SC,7,ABC,5
+Internacional-SC,0,Alecrim,0
+Internacional-SC,7,Alegrense,3
+Internacional-SC,7,Alto Vale,0
+Internacional-SC,7,América - AM,7
+Internacional-SC,4,América - MG,0
+Internacional-SC,1,América - RN,6
+Internacional-SC,5,ASA - AL,3
+Internacional-SC,4,Atlético - BA,6
+Internacional-SC,3,Atlético - MG,0
+Internacional-SC,6,Atlético - GO,2
+Internacional-SC,3,Atlético - PR,0
+Internacional-SC,1,Avaí,0
+Internacional-SC,0,Avenida,0
+Internacional-SC,7,Bahia,1
+Internacional-SC,2,Bandeirante,2
+Internacional-SC,7,Bangu,0
+Internacional-SC,3,Botafogo - PB,7
+Internacional-SC,7,Botafogo - RJ,7
+Internacional-SC,2,Botafogo - SP,1
+Internacional-SC,3,Bragantino,5
+Internacional-SC,4,Brasil de Pelotas,1
+Internacional-SC,1,Brasília,1
+Internacional-SC,7,Brasiliense,5
+Internacional-SC,2,Brazlândia,6
+Internacional-SC,1,Cabo Frio,1
+Internacional-SC,6,Cachoeiro,1
+Internacional-SC,6,Caldas,6
+Internacional-SC,0,Chapecoense,2
+Internacional-SC,1,Colo Colo,4
+Internacional-SC,2,Criciúma,6
+Internacional-SC,0,Cruzeiro - BA,3
+Internacional-SC,2,Cruzeiro - MG,1
+Internacional-SC,6,Democrata,7
+Internacional-SC,7,Desportiva,6
+Internacional-SC,1,Dom Pedro II,4
+Internacional-SC,5,Esportivo,3
+Internacional-SC,0,Estrela do Norte,0
+Internacional-SC,6,Fast,4
+Internacional-SC,4,Gama,2
+Internacional-SC,6,Goianésia,7
+Internacional-SC,5,Goiania,3
+Internacional-SC,3,Goiás,0
+Internacional-SC,6,Guará,7
+Internacional-SC,4,Guarani - MG,1
+Internacional-SC,2,Guarani - SP,4
+Internacional-SC,6,Guarany - CE,6
+Internacional-SC,1,Guarany - RS,7
+Internacional-SC,7,Íbis,5
+Internacional-SC,0,Inhumas,3
+Internacional-SC,4,Inter de Limeira,0
+Internacional-SC,6,Internacional-RS,3
+Internacional-SC,0,Ipatinga,6
+Internacional-SC,3,Iraty,4
+Internacional-SC,0,Joinville,6
+Internacional-SC,0,Londrina,5
+Internacional-SC,7,Madureira,7
+Internacional-SC,0,Malutrom,6
+Internacional-SC,1,Mamoré,7
+Internacional-SC,0,Maranhão,4
+Internacional-SC,3,Marcílio Dias,0
+Internacional-SC,5,Libermorro,3
+Internacional-SC,0,Linhares,5
+Internacional-SC,3,Novo Hamburgo,0
+Internacional-SC,5,Novo Horizonte,4
+Internacional-SC,1,Olaria,6
+Internacional-SC,5,Piranhas,7
+Internacional-SC,6,Potiguar,1
+Internacional-SC,1,Paysandu,4
+Internacional-SC,5,Poções,0
+Internacional-SC,3,Ponte Preta,0
+Internacional-SC,6,Portuguesa,1
+Internacional-SC,1,Riachuelo,0
+Internacional-SC,6,Rio Branco - AC,4
+Internacional-SC,5,Rio Branco - ES,1
+Internacional-SC,2,Rioverdense,2
+Internacional-SC,3,River - PI,4
+Internacional-SC,2,Roraima,7
+Internacional-SC,7,Sampaio Corrêa,2
+Internacional-SC,6,São Paulo,7
+Internacional-SC,6,São Paulo - RS,6
+Internacional-SC,2,Serra,3
+Internacional-SC,2,Sobradinho,4
+Internacional-SC,3,Sul América,3
+Internacional-SC,3,Tocantinópolis,6
+Internacional-SC,3,Treze - PB,1
+Internacional-SC,7,Tubarão,1
+Internacional-SC,7,Uniclinic,6
+Internacional-SC,2,URT,1
+Internacional-SC,3,Vasco da Gama ,6
+Internacional-SC,4,Vasco da Gama-AC,4
+Internacional-SC,1,Veranópolis,6
+Internacional-SC,7,Vila Nova - GO,4
+Internacional-SC,1,Villa Nova - MG,3
+Internacional-SC,0,Volta Redonda ,0
+Internacional-SC,7,Ypiranga-AP,5
+Ipatinga,0,15 de Novembro,0
+Ipatinga,7,A. A. Portuguesa,6
+Ipatinga,1,ABC,6
+Ipatinga,1,Alecrim,7
+Ipatinga,7,Alegrense,5
+Ipatinga,0,Alto Vale,4
+Ipatinga,1,América - AM,5
+Ipatinga,7,América - MG,2
+Ipatinga,2,América - RN,0
+Ipatinga,5,ASA - AL,5
+Ipatinga,3,Atlético - BA,1
+Ipatinga,2,Atlético - MG,2
+Ipatinga,1,Atlético - GO,7
+Ipatinga,5,Atlético - PR,6
+Ipatinga,6,Avaí,3
+Ipatinga,6,Avenida,4
+Ipatinga,2,Bahia,2
+Ipatinga,5,Bandeirante,3
+Ipatinga,4,Bangu,2
+Ipatinga,1,Botafogo - PB,1
+Ipatinga,4,Botafogo - RJ,1
+Ipatinga,6,Botafogo - SP,6
+Ipatinga,5,Bragantino,3
+Ipatinga,7,Brasil de Pelotas,0
+Ipatinga,3,Brasília,5
+Ipatinga,3,Brasiliense,4
+Ipatinga,3,Brazlândia,4
+Ipatinga,1,Cabo Frio,6
+Ipatinga,4,Cachoeiro,6
+Ipatinga,7,Caldas,3
+Ipatinga,6,Chapecoense,5
+Ipatinga,7,Colo Colo,3
+Ipatinga,6,Criciúma,2
+Ipatinga,2,Cruzeiro - BA,4
+Ipatinga,3,Cruzeiro - MG,1
+Ipatinga,7,Democrata,2
+Ipatinga,1,Desportiva,7
+Ipatinga,3,Dom Pedro II,4
+Ipatinga,0,Esportivo,7
+Ipatinga,1,Estrela do Norte,6
+Ipatinga,4,Fast,7
+Ipatinga,0,Gama,3
+Ipatinga,1,Goianésia,4
+Ipatinga,2,Goiania,1
+Ipatinga,6,Goiás,2
+Ipatinga,0,Guará,1
+Ipatinga,4,Guarani - MG,0
+Ipatinga,0,Guarani - SP,1
+Ipatinga,1,Guarany - CE,4
+Ipatinga,7,Guarany - RS,6
+Ipatinga,0,Íbis,6
+Ipatinga,2,Inhumas,1
+Ipatinga,3,Inter de Limeira,2
+Ipatinga,2,Internacional-RS,4
+Ipatinga,6,Internacional-SC,2
+Ipatinga,6,Iraty,1
+Ipatinga,5,Joinville,3
+Ipatinga,6,Londrina,4
+Ipatinga,6,Madureira,5
+Ipatinga,0,Malutrom,0
+Ipatinga,6,Mamoré,6
+Ipatinga,3,Maranhão,4
+Ipatinga,7,Marcílio Dias,6
+Ipatinga,5,Libermorro,0
+Ipatinga,3,Linhares,1
+Ipatinga,4,Novo Hamburgo,4
+Ipatinga,5,Novo Horizonte,6
+Ipatinga,0,Olaria,5
+Ipatinga,6,Piranhas,0
+Ipatinga,6,Potiguar,2
+Ipatinga,6,Paysandu,1
+Ipatinga,7,Poções,2
+Ipatinga,0,Ponte Preta,2
+Ipatinga,1,Portuguesa,2
+Ipatinga,3,Riachuelo,3
+Ipatinga,7,Rio Branco - AC,6
+Ipatinga,1,Rio Branco - ES,6
+Ipatinga,4,Rioverdense,3
+Ipatinga,3,River - PI,4
+Ipatinga,5,Roraima,3
+Ipatinga,6,Sampaio Corrêa,5
+Ipatinga,6,São Paulo,2
+Ipatinga,4,São Paulo - RS,3
+Ipatinga,4,Serra,1
+Ipatinga,3,Sobradinho,7
+Ipatinga,5,Sul América,5
+Ipatinga,6,Tocantinópolis,4
+Ipatinga,3,Treze - PB,5
+Ipatinga,3,Tubarão,2
+Ipatinga,0,Uniclinic,6
+Ipatinga,0,URT,0
+Ipatinga,1,Vasco da Gama ,3
+Ipatinga,3,Vasco da Gama-AC,6
+Ipatinga,3,Veranópolis,1
+Ipatinga,2,Vila Nova - GO,4
+Ipatinga,1,Villa Nova - MG,0
+Ipatinga,6,Volta Redonda ,5
+Ipatinga,2,Ypiranga-AP,5
+Iraty,3,15 de Novembro,1
+Iraty,3,A. A. Portuguesa,7
+Iraty,5,ABC,7
+Iraty,5,Alecrim,0
+Iraty,5,Alegrense,4
+Iraty,4,Alto Vale,5
+Iraty,6,América - AM,6
+Iraty,3,América - MG,3
+Iraty,7,América - RN,7
+Iraty,0,ASA - AL,6
+Iraty,5,Atlético - BA,6
+Iraty,4,Atlético - MG,6
+Iraty,7,Atlético - GO,3
+Iraty,0,Atlético - PR,0
+Iraty,4,Avaí,0
+Iraty,5,Avenida,0
+Iraty,3,Bahia,7
+Iraty,3,Bandeirante,7
+Iraty,1,Bangu,1
+Iraty,0,Botafogo - PB,4
+Iraty,3,Botafogo - RJ,1
+Iraty,0,Botafogo - SP,3
+Iraty,4,Bragantino,7
+Iraty,3,Brasil de Pelotas,2
+Iraty,3,Brasília,0
+Iraty,0,Brasiliense,5
+Iraty,1,Brazlândia,4
+Iraty,4,Cabo Frio,7
+Iraty,7,Cachoeiro,6
+Iraty,3,Caldas,5
+Iraty,0,Chapecoense,3
+Iraty,1,Colo Colo,0
+Iraty,3,Criciúma,1
+Iraty,6,Cruzeiro - BA,0
+Iraty,0,Cruzeiro - MG,6
+Iraty,7,Democrata,5
+Iraty,1,Desportiva,1
+Iraty,7,Dom Pedro II,0
+Iraty,1,Esportivo,2
+Iraty,3,Estrela do Norte,7
+Iraty,7,Fast,4
+Iraty,1,Gama,3
+Iraty,6,Goianésia,1
+Iraty,4,Goiania,2
+Iraty,6,Goiás,1
+Iraty,6,Guará,3
+Iraty,0,Guarani - MG,7
+Iraty,0,Guarani - SP,2
+Iraty,7,Guarany - CE,3
+Iraty,0,Guarany - RS,5
+Iraty,5,Íbis,1
+Iraty,7,Inhumas,2
+Iraty,6,Inter de Limeira,3
+Iraty,0,Internacional-RS,7
+Iraty,7,Internacional-SC,3
+Iraty,0,Ipatinga,4
+Iraty,6,Joinville,0
+Iraty,4,Londrina,1
+Iraty,2,Madureira,6
+Iraty,2,Malutrom,4
+Iraty,1,Mamoré,1
+Iraty,3,Maranhão,0
+Iraty,3,Marcílio Dias,6
+Iraty,4,Libermorro,2
+Iraty,6,Linhares,7
+Iraty,5,Novo Hamburgo,2
+Iraty,3,Novo Horizonte,7
+Iraty,3,Olaria,0
+Iraty,6,Piranhas,3
+Iraty,2,Potiguar,5
+Iraty,7,Paysandu,0
+Iraty,0,Poções,2
+Iraty,5,Ponte Preta,6
+Iraty,4,Portuguesa,7
+Iraty,3,Riachuelo,7
+Iraty,2,Rio Branco - AC,6
+Iraty,0,Rio Branco - ES,7
+Iraty,6,Rioverdense,6
+Iraty,3,River - PI,2
+Iraty,3,Roraima,5
+Iraty,5,Sampaio Corrêa,0
+Iraty,6,São Paulo,7
+Iraty,5,São Paulo - RS,4
+Iraty,5,Serra,7
+Iraty,1,Sobradinho,7
+Iraty,1,Sul América,3
+Iraty,7,Tocantinópolis,0
+Iraty,3,Treze - PB,6
+Iraty,1,Tubarão,1
+Iraty,7,Uniclinic,2
+Iraty,2,URT,5
+Iraty,7,Vasco da Gama ,3
+Iraty,6,Vasco da Gama-AC,6
+Iraty,7,Veranópolis,6
+Iraty,4,Vila Nova - GO,6
+Iraty,4,Villa Nova - MG,7
+Iraty,5,Volta Redonda ,6
+Iraty,7,Ypiranga-AP,2
+Joinville,4,15 de Novembro,0
+Joinville,3,A. A. Portuguesa,3
+Joinville,5,ABC,0
+Joinville,6,Alecrim,1
+Joinville,6,Alegrense,3
+Joinville,3,Alto Vale,2
+Joinville,7,América - AM,7
+Joinville,7,América - MG,7
+Joinville,3,América - RN,0
+Joinville,7,ASA - AL,4
+Joinville,6,Atlético - BA,7
+Joinville,1,Atlético - MG,6
+Joinville,6,Atlético - GO,7
+Joinville,7,Atlético - PR,6
+Joinville,5,Avaí,2
+Joinville,1,Avenida,1
+Joinville,6,Bahia,1
+Joinville,2,Bandeirante,4
+Joinville,1,Bangu,2
+Joinville,3,Botafogo - PB,4
+Joinville,0,Botafogo - RJ,2
+Joinville,3,Botafogo - SP,1
+Joinville,4,Bragantino,1
+Joinville,3,Brasil de Pelotas,7
+Joinville,6,Brasília,4
+Joinville,0,Brasiliense,5
+Joinville,4,Brazlândia,1
+Joinville,4,Cabo Frio,4
+Joinville,2,Cachoeiro,3
+Joinville,6,Caldas,6
+Joinville,6,Chapecoense,3
+Joinville,6,Colo Colo,7
+Joinville,3,Criciúma,0
+Joinville,4,Cruzeiro - BA,0
+Joinville,6,Cruzeiro - MG,7
+Joinville,7,Democrata,2
+Joinville,0,Desportiva,1
+Joinville,0,Dom Pedro II,7
+Joinville,1,Esportivo,6
+Joinville,2,Estrela do Norte,3
+Joinville,2,Fast,1
+Joinville,5,Gama,0
+Joinville,5,Goianésia,4
+Joinville,2,Goiania,2
+Joinville,4,Goiás,1
+Joinville,5,Guará,6
+Joinville,0,Guarani - MG,0
+Joinville,7,Guarani - SP,4
+Joinville,5,Guarany - CE,7
+Joinville,7,Guarany - RS,7
+Joinville,5,Íbis,6
+Joinville,6,Inhumas,3
+Joinville,7,Inter de Limeira,1
+Joinville,0,Internacional-RS,6
+Joinville,5,Internacional-SC,5
+Joinville,4,Ipatinga,0
+Joinville,5,Iraty,6
+Joinville,6,Londrina,1
+Joinville,5,Madureira,6
+Joinville,2,Malutrom,3
+Joinville,4,Mamoré,1
+Joinville,1,Maranhão,1
+Joinville,6,Marcílio Dias,5
+Joinville,5,Libermorro,0
+Joinville,1,Linhares,0
+Joinville,2,Novo Hamburgo,6
+Joinville,5,Novo Horizonte,1
+Joinville,6,Olaria,2
+Joinville,0,Piranhas,1
+Joinville,3,Potiguar,1
+Joinville,6,Paysandu,1
+Joinville,7,Poções,2
+Joinville,3,Ponte Preta,7
+Joinville,1,Portuguesa,0
+Joinville,2,Riachuelo,5
+Joinville,7,Rio Branco - AC,4
+Joinville,3,Rio Branco - ES,4
+Joinville,2,Rioverdense,6
+Joinville,1,River - PI,1
+Joinville,0,Roraima,0
+Joinville,0,Sampaio Corrêa,0
+Joinville,7,São Paulo,6
+Joinville,4,São Paulo - RS,5
+Joinville,7,Serra,1
+Joinville,6,Sobradinho,4
+Joinville,3,Sul América,6
+Joinville,7,Tocantinópolis,0
+Joinville,2,Treze - PB,5
+Joinville,0,Tubarão,4
+Joinville,1,Uniclinic,4
+Joinville,3,URT,4
+Joinville,4,Vasco da Gama ,5
+Joinville,6,Vasco da Gama-AC,4
+Joinville,6,Veranópolis,3
+Joinville,5,Vila Nova - GO,6
+Joinville,1,Villa Nova - MG,0
+Joinville,2,Volta Redonda ,4
+Joinville,6,Ypiranga-AP,3
+Londrina,0,15 de Novembro,1
+Londrina,1,A. A. Portuguesa,1
+Londrina,2,ABC,4
+Londrina,4,Alecrim,6
+Londrina,0,Alegrense,3
+Londrina,2,Alto Vale,1
+Londrina,5,América - AM,2
+Londrina,0,América - MG,5
+Londrina,6,América - RN,1
+Londrina,5,ASA - AL,6
+Londrina,3,Atlético - BA,6
+Londrina,1,Atlético - MG,4
+Londrina,5,Atlético - GO,0
+Londrina,6,Atlético - PR,1
+Londrina,7,Avaí,1
+Londrina,6,Avenida,1
+Londrina,1,Bahia,2
+Londrina,3,Bandeirante,2
+Londrina,6,Bangu,7
+Londrina,2,Botafogo - PB,6
+Londrina,4,Botafogo - RJ,0
+Londrina,5,Botafogo - SP,4
+Londrina,3,Bragantino,5
+Londrina,5,Brasil de Pelotas,0
+Londrina,4,Brasília,4
+Londrina,6,Brasiliense,5
+Londrina,4,Brazlândia,4
+Londrina,7,Cabo Frio,1
+Londrina,6,Cachoeiro,0
+Londrina,1,Caldas,3
+Londrina,5,Chapecoense,0
+Londrina,3,Colo Colo,3
+Londrina,7,Criciúma,5
+Londrina,3,Cruzeiro - BA,7
+Londrina,6,Cruzeiro - MG,7
+Londrina,4,Democrata,3
+Londrina,4,Desportiva,6
+Londrina,0,Dom Pedro II,3
+Londrina,0,Esportivo,3
+Londrina,4,Estrela do Norte,7
+Londrina,3,Fast,1
+Londrina,7,Gama,7
+Londrina,5,Goianésia,6
+Londrina,4,Goiania,6
+Londrina,4,Goiás,0
+Londrina,7,Guará,4
+Londrina,7,Guarani - MG,0
+Londrina,4,Guarani - SP,3
+Londrina,1,Guarany - CE,4
+Londrina,1,Guarany - RS,3
+Londrina,3,Íbis,4
+Londrina,2,Inhumas,7
+Londrina,4,Inter de Limeira,7
+Londrina,0,Internacional-RS,1
+Londrina,3,Internacional-SC,4
+Londrina,0,Ipatinga,0
+Londrina,6,Iraty,0
+Londrina,4,Joinville,3
+Londrina,4,Madureira,1
+Londrina,1,Malutrom,2
+Londrina,5,Mamoré,0
+Londrina,7,Maranhão,0
+Londrina,0,Marcílio Dias,4
+Londrina,2,Libermorro,7
+Londrina,2,Linhares,3
+Londrina,2,Novo Hamburgo,0
+Londrina,5,Novo Horizonte,5
+Londrina,5,Olaria,7
+Londrina,1,Piranhas,2
+Londrina,1,Potiguar,7
+Londrina,7,Paysandu,7
+Londrina,7,Poções,4
+Londrina,4,Ponte Preta,2
+Londrina,6,Portuguesa,4
+Londrina,4,Riachuelo,7
+Londrina,4,Rio Branco - AC,3
+Londrina,6,Rio Branco - ES,1
+Londrina,0,Rioverdense,1
+Londrina,3,River - PI,5
+Londrina,2,Roraima,0
+Londrina,1,Sampaio Corrêa,4
+Londrina,4,São Paulo,5
+Londrina,3,São Paulo - RS,4
+Londrina,3,Serra,7
+Londrina,5,Sobradinho,7
+Londrina,7,Sul América,5
+Londrina,0,Tocantinópolis,6
+Londrina,0,Treze - PB,1
+Londrina,2,Tubarão,6
+Londrina,0,Uniclinic,5
+Londrina,0,URT,6
+Londrina,2,Vasco da Gama ,0
+Londrina,0,Vasco da Gama-AC,6
+Londrina,6,Veranópolis,7
+Londrina,7,Vila Nova - GO,0
+Londrina,4,Villa Nova - MG,5
+Londrina,4,Volta Redonda ,7
+Londrina,3,Ypiranga-AP,5
+Madureira,2,15 de Novembro,0
+Madureira,6,A. A. Portuguesa,4
+Madureira,6,ABC,3
+Madureira,7,Alecrim,0
+Madureira,6,Alegrense,3
+Madureira,5,Alto Vale,0
+Madureira,7,América - AM,2
+Madureira,1,América - MG,7
+Madureira,7,América - RN,4
+Madureira,5,ASA - AL,6
+Madureira,0,Atlético - BA,0
+Madureira,1,Atlético - MG,1
+Madureira,3,Atlético - GO,2
+Madureira,1,Atlético - PR,7
+Madureira,4,Avaí,4
+Madureira,6,Avenida,7
+Madureira,6,Bahia,5
+Madureira,7,Bandeirante,2
+Madureira,2,Bangu,5
+Madureira,3,Botafogo - PB,2
+Madureira,2,Botafogo - RJ,2
+Madureira,7,Botafogo - SP,1
+Madureira,3,Bragantino,4
+Madureira,4,Brasil de Pelotas,7
+Madureira,2,Brasília,1
+Madureira,3,Brasiliense,6
+Madureira,7,Brazlândia,2
+Madureira,4,Cabo Frio,3
+Madureira,4,Cachoeiro,1
+Madureira,7,Caldas,5
+Madureira,5,Chapecoense,2
+Madureira,7,Colo Colo,2
+Madureira,3,Criciúma,7
+Madureira,6,Cruzeiro - BA,6
+Madureira,7,Cruzeiro - MG,7
+Madureira,6,Democrata,6
+Madureira,3,Desportiva,6
+Madureira,4,Dom Pedro II,5
+Madureira,5,Esportivo,0
+Madureira,7,Estrela do Norte,3
+Madureira,5,Fast,3
+Madureira,3,Gama,4
+Madureira,5,Goianésia,2
+Madureira,5,Goiania,7
+Madureira,7,Goiás,4
+Madureira,0,Guará,1
+Madureira,2,Guarani - MG,7
+Madureira,5,Guarani - SP,7
+Madureira,7,Guarany - CE,4
+Madureira,4,Guarany - RS,5
+Madureira,5,Íbis,7
+Madureira,2,Inhumas,4
+Madureira,5,Inter de Limeira,7
+Madureira,1,Internacional-RS,3
+Madureira,6,Internacional-SC,2
+Madureira,3,Ipatinga,5
+Madureira,7,Iraty,7
+Madureira,7,Joinville,0
+Madureira,4,Londrina,0
+Madureira,7,Malutrom,7
+Madureira,6,Mamoré,3
+Madureira,5,Maranhão,1
+Madureira,2,Marcílio Dias,2
+Madureira,1,Libermorro,2
+Madureira,5,Linhares,7
+Madureira,4,Novo Hamburgo,3
+Madureira,1,Novo Horizonte,5
+Madureira,3,Olaria,0
+Madureira,6,Piranhas,3
+Madureira,6,Potiguar,4
+Madureira,0,Paysandu,6
+Madureira,7,Poções,5
+Madureira,0,Ponte Preta,5
+Madureira,0,Portuguesa,2
+Madureira,6,Riachuelo,1
+Madureira,7,Rio Branco - AC,1
+Madureira,2,Rio Branco - ES,0
+Madureira,5,Rioverdense,0
+Madureira,1,River - PI,5
+Madureira,0,Roraima,2
+Madureira,1,Sampaio Corrêa,3
+Madureira,6,São Paulo,6
+Madureira,6,São Paulo - RS,5
+Madureira,1,Serra,7
+Madureira,7,Sobradinho,2
+Madureira,2,Sul América,0
+Madureira,2,Tocantinópolis,5
+Madureira,4,Treze - PB,4
+Madureira,4,Tubarão,3
+Madureira,2,Uniclinic,7
+Madureira,4,URT,5
+Madureira,1,Vasco da Gama ,3
+Madureira,4,Vasco da Gama-AC,5
+Madureira,3,Veranópolis,4
+Madureira,6,Vila Nova - GO,6
+Madureira,4,Villa Nova - MG,5
+Madureira,3,Volta Redonda ,6
+Madureira,6,Ypiranga-AP,2
+Malutrom,3,15 de Novembro,6
+Malutrom,6,A. A. Portuguesa,4
+Malutrom,2,ABC,5
+Malutrom,3,Alecrim,1
+Malutrom,3,Alegrense,0
+Malutrom,6,Alto Vale,5
+Malutrom,3,América - AM,3
+Malutrom,3,América - MG,0
+Malutrom,3,América - RN,5
+Malutrom,7,ASA - AL,7
+Malutrom,1,Atlético - BA,6
+Malutrom,1,Atlético - MG,0
+Malutrom,6,Atlético - GO,6
+Malutrom,2,Atlético - PR,7
+Malutrom,3,Avaí,2
+Malutrom,6,Avenida,6
+Malutrom,1,Bahia,3
+Malutrom,4,Bandeirante,5
+Malutrom,7,Bangu,7
+Malutrom,3,Botafogo - PB,6
+Malutrom,1,Botafogo - RJ,0
+Malutrom,6,Botafogo - SP,4
+Malutrom,4,Bragantino,6
+Malutrom,3,Brasil de Pelotas,4
+Malutrom,6,Brasília,7
+Malutrom,5,Brasiliense,6
+Malutrom,0,Brazlândia,1
+Malutrom,6,Cabo Frio,3
+Malutrom,3,Cachoeiro,7
+Malutrom,1,Caldas,3
+Malutrom,7,Chapecoense,1
+Malutrom,7,Colo Colo,6
+Malutrom,4,Criciúma,7
+Malutrom,2,Cruzeiro - BA,2
+Malutrom,4,Cruzeiro - MG,2
+Malutrom,1,Democrata,2
+Malutrom,4,Desportiva,4
+Malutrom,0,Dom Pedro II,3
+Malutrom,3,Esportivo,1
+Malutrom,2,Estrela do Norte,2
+Malutrom,0,Fast,4
+Malutrom,5,Gama,0
+Malutrom,3,Goianésia,2
+Malutrom,6,Goiania,0
+Malutrom,3,Goiás,3
+Malutrom,5,Guará,0
+Malutrom,5,Guarani - MG,1
+Malutrom,6,Guarani - SP,0
+Malutrom,5,Guarany - CE,4
+Malutrom,1,Guarany - RS,7
+Malutrom,6,Íbis,3
+Malutrom,4,Inhumas,4
+Malutrom,5,Inter de Limeira,2
+Malutrom,4,Internacional-RS,1
+Malutrom,7,Internacional-SC,7
+Malutrom,3,Ipatinga,2
+Malutrom,0,Iraty,0
+Malutrom,1,Joinville,3
+Malutrom,6,Londrina,1
+Malutrom,5,Madureira,6
+Malutrom,0,Mamoré,2
+Malutrom,6,Maranhão,6
+Malutrom,6,Marcílio Dias,4
+Malutrom,7,Libermorro,1
+Malutrom,0,Linhares,5
+Malutrom,1,Novo Hamburgo,7
+Malutrom,1,Novo Horizonte,1
+Malutrom,7,Olaria,7
+Malutrom,3,Piranhas,1
+Malutrom,5,Potiguar,2
+Malutrom,0,Paysandu,6
+Malutrom,2,Poções,3
+Malutrom,2,Ponte Preta,1
+Malutrom,2,Portuguesa,2
+Malutrom,1,Riachuelo,7
+Malutrom,3,Rio Branco - AC,0
+Malutrom,2,Rio Branco - ES,2
+Malutrom,7,Rioverdense,0
+Malutrom,0,River - PI,2
+Malutrom,2,Roraima,0
+Malutrom,1,Sampaio Corrêa,0
+Malutrom,2,São Paulo,2
+Malutrom,7,São Paulo - RS,1
+Malutrom,2,Serra,2
+Malutrom,2,Sobradinho,5
+Malutrom,1,Sul América,5
+Malutrom,3,Tocantinópolis,3
+Malutrom,4,Treze - PB,5
+Malutrom,6,Tubarão,3
+Malutrom,3,Uniclinic,6
+Malutrom,4,URT,4
+Malutrom,4,Vasco da Gama ,6
+Malutrom,4,Vasco da Gama-AC,3
+Malutrom,7,Veranópolis,4
+Malutrom,0,Vila Nova - GO,1
+Malutrom,7,Villa Nova - MG,2
+Malutrom,3,Volta Redonda ,7
+Malutrom,2,Ypiranga-AP,6
+Mamoré,2,15 de Novembro,4
+Mamoré,4,A. A. Portuguesa,2
+Mamoré,2,ABC,1
+Mamoré,4,Alecrim,0
+Mamoré,5,Alegrense,0
+Mamoré,2,Alto Vale,1
+Mamoré,1,América - AM,1
+Mamoré,4,América - MG,0
+Mamoré,6,América - RN,3
+Mamoré,5,ASA - AL,3
+Mamoré,7,Atlético - BA,1
+Mamoré,1,Atlético - MG,6
+Mamoré,1,Atlético - GO,3
+Mamoré,1,Atlético - PR,6
+Mamoré,6,Avaí,7
+Mamoré,0,Avenida,2
+Mamoré,0,Bahia,2
+Mamoré,1,Bandeirante,4
+Mamoré,1,Bangu,2
+Mamoré,4,Botafogo - PB,7
+Mamoré,7,Botafogo - RJ,4
+Mamoré,4,Botafogo - SP,6
+Mamoré,3,Bragantino,4
+Mamoré,5,Brasil de Pelotas,6
+Mamoré,2,Brasília,0
+Mamoré,6,Brasiliense,7
+Mamoré,0,Brazlândia,1
+Mamoré,1,Cabo Frio,2
+Mamoré,6,Cachoeiro,6
+Mamoré,2,Caldas,1
+Mamoré,5,Chapecoense,7
+Mamoré,4,Colo Colo,7
+Mamoré,1,Criciúma,6
+Mamoré,3,Cruzeiro - BA,7
+Mamoré,6,Cruzeiro - MG,1
+Mamoré,2,Democrata,4
+Mamoré,4,Desportiva,2
+Mamoré,4,Dom Pedro II,5
+Mamoré,4,Esportivo,0
+Mamoré,7,Estrela do Norte,3
+Mamoré,5,Fast,7
+Mamoré,6,Gama,5
+Mamoré,1,Goianésia,7
+Mamoré,2,Goiania,1
+Mamoré,6,Goiás,0
+Mamoré,2,Guará,2
+Mamoré,0,Guarani - MG,3
+Mamoré,2,Guarani - SP,7
+Mamoré,0,Guarany - CE,4
+Mamoré,1,Guarany - RS,0
+Mamoré,1,Íbis,7
+Mamoré,5,Inhumas,7
+Mamoré,2,Inter de Limeira,4
+Mamoré,0,Internacional-RS,6
+Mamoré,6,Internacional-SC,4
+Mamoré,2,Ipatinga,3
+Mamoré,1,Iraty,6
+Mamoré,1,Joinville,6
+Mamoré,0,Londrina,6
+Mamoré,1,Madureira,2
+Mamoré,3,Malutrom,2
+Mamoré,6,Maranhão,6
+Mamoré,5,Marcílio Dias,0
+Mamoré,1,Libermorro,2
+Mamoré,2,Linhares,6
+Mamoré,0,Novo Hamburgo,4
+Mamoré,4,Novo Horizonte,5
+Mamoré,4,Olaria,7
+Mamoré,3,Piranhas,0
+Mamoré,4,Potiguar,1
+Mamoré,0,Paysandu,0
+Mamoré,6,Poções,4
+Mamoré,7,Ponte Preta,4
+Mamoré,0,Portuguesa,5
+Mamoré,0,Riachuelo,0
+Mamoré,7,Rio Branco - AC,3
+Mamoré,7,Rio Branco - ES,3
+Mamoré,0,Rioverdense,6
+Mamoré,5,River - PI,1
+Mamoré,6,Roraima,4
+Mamoré,1,Sampaio Corrêa,4
+Mamoré,3,São Paulo,3
+Mamoré,6,São Paulo - RS,3
+Mamoré,5,Serra,0
+Mamoré,1,Sobradinho,1
+Mamoré,1,Sul América,7
+Mamoré,6,Tocantinópolis,2
+Mamoré,0,Treze - PB,7
+Mamoré,6,Tubarão,1
+Mamoré,4,Uniclinic,3
+Mamoré,1,URT,5
+Mamoré,0,Vasco da Gama ,5
+Mamoré,3,Vasco da Gama-AC,7
+Mamoré,1,Veranópolis,7
+Mamoré,7,Vila Nova - GO,1
+Mamoré,5,Villa Nova - MG,2
+Mamoré,5,Volta Redonda ,3
+Mamoré,2,Ypiranga-AP,1
+Maranhão,4,15 de Novembro,7
+Maranhão,0,A. A. Portuguesa,4
+Maranhão,2,ABC,0
+Maranhão,7,Alecrim,1
+Maranhão,2,Alegrense,2
+Maranhão,1,Alto Vale,7
+Maranhão,4,América - AM,7
+Maranhão,1,América - MG,4
+Maranhão,7,América - RN,7
+Maranhão,5,ASA - AL,6
+Maranhão,6,Atlético - BA,6
+Maranhão,6,Atlético - MG,0
+Maranhão,5,Atlético - GO,7
+Maranhão,4,Atlético - PR,5
+Maranhão,6,Avaí,4
+Maranhão,3,Avenida,6
+Maranhão,6,Bahia,6
+Maranhão,1,Bandeirante,4
+Maranhão,6,Bangu,2
+Maranhão,2,Botafogo - PB,7
+Maranhão,7,Botafogo - RJ,2
+Maranhão,6,Botafogo - SP,7
+Maranhão,6,Bragantino,7
+Maranhão,2,Brasil de Pelotas,0
+Maranhão,2,Brasília,4
+Maranhão,1,Brasiliense,2
+Maranhão,6,Brazlândia,0
+Maranhão,5,Cabo Frio,0
+Maranhão,0,Cachoeiro,7
+Maranhão,6,Caldas,5
+Maranhão,1,Chapecoense,7
+Maranhão,1,Colo Colo,0
+Maranhão,0,Criciúma,7
+Maranhão,7,Cruzeiro - BA,1
+Maranhão,1,Cruzeiro - MG,2
+Maranhão,5,Democrata,3

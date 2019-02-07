@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="240.0" prefWidth="550.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.CadJogadorController">
+   <children>
+      <VBox alignment="BOTTOM_CENTER" prefHeight="240.0" prefWidth="550.0">
+         <children>
+            <HBox alignment="CENTER" prefHeight="50.0" prefWidth="550.0" style="-fx-background-color: SlateGrey;">
+               <children>
+                  <Label fx:id="lblCadJogador" text="Cadastro jogador" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="140.0" prefWidth="550.0">
+               <children>
+                  <VBox alignment="CENTER" prefHeight="140.0" prefWidth="285.0">
+                     <children>
+                        <Label text="Nome do jogador" textFill="SLATEGRAY">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font></Label>
+                        <TextField fx:id="txtFldNomeJogador" prefHeight="25.0" prefWidth="191.0">
+                           <VBox.margin>
+                              <Insets top="10.0" />
+                           </VBox.margin>
+                        </TextField>
+                     </children>
+                     <padding>
+                        <Insets left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="140.0" prefWidth="82.0">
+                     <children>
+                        <Label text="Número" textFill="SLATEGRAY">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font></Label>
+                        <TextField fx:id="txtFldNumJogador">
+                           <VBox.margin>
+                              <Insets top="10.0" />
+                           </VBox.margin>
+                        </TextField>
+                     </children>
+                     <padding>
+                        <Insets left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+                  <VBox alignment="CENTER" prefHeight="200.0" prefWidth="183.0">
+                     <children>
+                        <Label text="Posição do jogador" textFill="SLATEGRAY">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font></Label>
+                        <TextField fx:id="txtFldPosicaoJogador">
+                           <VBox.margin>
+                              <Insets top="10.0" />
+                           </VBox.margin>
+                        </TextField>
+                     </children>
+                     <padding>
+                        <Insets left="10.0" right="10.0" />
+                     </padding>
+                  </VBox>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="50.0" prefWidth="550.0" style="-fx-background-color: SlateGray;">
+               <children>
+                  <HBox alignment="CENTER_LEFT" prefHeight="100.0" prefWidth="275.0">
+                     <children>
+                        <Button fx:id="btnCancelar" mnemonicParsing="false" onAction="#btnCancelarClick" style="-fx-background-color: SlateGray; -fx-border-color: White; -fx-border-radius: 2;" text="Cancelar" textFill="WHITE">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
+                        </Button>
+                     </children>
+                     <HBox.margin>
+                        <Insets left="15.0" />
+                     </HBox.margin>
+                  </HBox>
+                  <HBox alignment="CENTER_RIGHT" prefHeight="50.0" prefWidth="275.0">
+                     <children>
+                        <Button fx:id="btnConfirmar" mnemonicParsing="false" onAction="#btnConfirmarClick" style="-fx-background-color: SlateGray; -fx-border-color: White; -fx-border-radius: 2;" text="Confirmar" textFill="WHITE">
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                           <HBox.margin>
+                              <Insets right="15.0" />
+                           </HBox.margin>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor>
+                        </Button>
+                     </children>
+                  </HBox>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

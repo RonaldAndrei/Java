@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.PrincipalControllerVip">
+   <children>
+      <BorderPane prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <center>
+            <TabPane prefHeight="200.0" prefWidth="200.0" tabClosingPolicy="UNAVAILABLE" BorderPane.alignment="CENTER">
+              <tabs>
+                  
+                  <Tab text="%lbl.clientes.text">
+                      <content>
+                          <fx:include source="ClienteView.fxml" />
+                      </content>
+                     <graphic>
+                        <FontAwesomeIconView fill="#2217b9" glyphName="USER" size="18.0" />
+                     </graphic>
+                  </Tab>
+                  
+                  <Tab text="%lbl.cheques.text">
+                      <content>
+                          <fx:include source="ChequeView.fxml" />
+                      </content>
+                     <graphic>
+                        <FontAwesomeIconView fill="#009a0a" glyphName="MONEY" size="18" />
+                     </graphic></Tab>
+                  
+                  <Tab text="%lbl.alineas.text">
+                      <content>
+                          <fx:include source="AlineaView.fxml" />
+                      </content>
+                     <graphic>
+                        <FontAwesomeIconView fill="#d3b418" glyphName="TAGS" size="18" />
+                     </graphic>
+                  </Tab>
+                  
+                  <Tab text="%lbl.bancos.text">
+                      <content>
+                          <fx:include source="BancoView.fxml" />
+                      </content>
+                     <graphic>
+                        <FontAwesomeIconView fill="#656565" glyphName="BANK" size="18" />
+                     </graphic>
+                  </Tab>
+                  
+              </tabs>
+            </TabPane>
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>

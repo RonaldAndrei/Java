@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="350.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.PrincipalController">
+    <children>
+      <BorderPane prefHeight="350.0" prefWidth="600.0" style="-fx-background-color: WhiteSmoke;" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <center>
+            <TableView fx:id="tblVwTimes" onKeyPressed="#keyPressedTblVwTimes" onMouseClicked="#onClickTblVwTimes" prefHeight="200.0" prefWidth="200.0" style="-fx-background-color: White;" BorderPane.alignment="CENTER">
+              <columns>
+                <TableColumn fx:id="colCla" editable="false" prefWidth="51.0" sortable="false" style="-fx-alignment: center;" text="CLA" />
+                <TableColumn fx:id="colNome" editable="false" prefWidth="250.0" sortable="false" text="NOME" />
+                  <TableColumn fx:id="colPontos" editable="false" prefWidth="40.0" sortable="false" style="-fx-alignment: center;" text="PTS" />
+                  <TableColumn fx:id="colVit" editable="false" prefWidth="40.0" sortable="false" style="-fx-alignment: center;" text="V" />
+                  <TableColumn fx:id="colEmp" editable="false" prefWidth="40.0" sortable="false" style="-fx-alignment: center;" text="E" />
+                  <TableColumn fx:id="colDer" editable="false" prefWidth="40.0" sortable="false" style="-fx-alignment: center;" text="D" />
+                  <TableColumn fx:id="colGP" editable="false" prefWidth="40.0" sortable="false" style="-fx-alignment: center;" text="GP" />
+                  <TableColumn fx:id="colGN" editable="false" prefWidth="40.0" sortable="false" style="-fx-alignment: center;" text="GN" />
+                  <TableColumn fx:id="colSG" editable="false" prefWidth="50.0" sortable="false" style="-fx-alignment: center;" text="SG" />
+              </columns>
+            </TableView>
+         </center>
+         <top>
+            <HBox alignment="CENTER_LEFT" prefHeight="25.0" prefWidth="600.0" style="-fx-background-color: SlateGray;" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="btnAbrir" mnemonicParsing="false" onAction="#btnAbrirClick" prefHeight="27.0" prefWidth="51.0" style="-fx-background-color: SlateGray; -fx-border-color: white; -fx-border-radius: 3;" text="Abrir" textFill="WHITE">
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="2.0" top="2.0" />
+                     </HBox.margin>
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor></Button>
+                  <Button fx:id="btnJogos" mnemonicParsing="false" onAction="#btnJogosClick" prefHeight="27.0" prefWidth="51.0" style="-fx-background-color: SlateGray; -fx-border-color: white; -fx-border-radius: 3;" text="Jogos" textFill="WHITE">
+                     <cursor>
+                        <Cursor fx:constant="HAND" />
+                     </cursor>
+                     <font>
+                        <Font name="System Bold" size="12.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets left="10.0" top="2.0" />
+                     </HBox.margin>
+                  </Button>
+               </children>
+               <BorderPane.margin>
+                  <Insets />
+               </BorderPane.margin>
+               <padding>
+                  <Insets bottom="2.0" />
+               </padding>
+            </HBox>
+         </top>
+      </BorderPane>
+      <StackPane fx:id="pnGames" layoutX="39.0" prefHeight="234.0" prefWidth="527.0" style="-fx-background-color: SlateGray;" AnchorPane.bottomAnchor="46.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0" AnchorPane.topAnchor="70.0">
+         <children>
+            <VBox prefHeight="234.0" prefWidth="497.0">
+               <children>
+                  <HBox alignment="CENTER" prefHeight="0.0" prefWidth="450.0">
+                     <children>
+                        <Label fx:id="lblTime" text="Time" textFill="WHITE">
+                           <font>
+                              <Font name="Candara Bold" size="23.0" />
+                           </font>
+                        </Label>
+                        <Label text="Quantidade de jogos:" textFill="WHITE">
+                           <HBox.margin>
+                              <Insets left="10.0" />
+                           </HBox.margin>
+                           <font>
+                              <Font name="System Bold" size="14.0" />
+                           </font>
+                        </Label>
+                        <Label fx:id="labelQtd" textFill="WHITE">
+                           <HBox.margin>
+                              <Insets left="4.0" />
+                           </HBox.margin>
+                           <font>
+                              <Font size="15.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </HBox>
+                  <TableView fx:id="tblVwGames" onKeyPressed="#keyPressedTblVwGames" prefHeight="252.0" prefWidth="450.0">
+                    <columns>
+                      <TableColumn fx:id="colTimeA" editable="false" prefWidth="200.0" sortable="false" style="-fx-alignment: center-right;" text="Time Casa" />
+                      <TableColumn fx:id="colGolA" editable="false" prefWidth="72.0" sortable="false" style="-fx-alignment: center;" text="Gol Casa" />
+                        <TableColumn fx:id="colGolB" editable="false" prefWidth="72.0" sortable="false" style="-fx-alignment: center;" text="Gol Vis." />
+                        <TableColumn fx:id="colTimeB" editable="false" prefWidth="200.0" sortable="false" style="-fx-alignment: center-left;" text="Time Visitante" />
+                    </columns>
+                  </TableView>
+                  <HBox alignment="CENTER_RIGHT" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <RadioButton fx:id="rbJogosCasa" mnemonicParsing="false" onAction="#rbJogosCasaAction" text="Jogos em casa" textFill="WHITE">
+                           <HBox.margin>
+                              <Insets left="2.0" right="2.0" />
+                           </HBox.margin>
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </RadioButton>
+                        <RadioButton fx:id="rbVitCasa" mnemonicParsing="false" onAction="#rbVitCasaAction" text="Vitórias em casa" textFill="WHITE">
+                           <HBox.margin>
+                              <Insets left="2.0" right="2.0" />
+                           </HBox.margin>
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </RadioButton>
+                        <RadioButton fx:id="rbEmpCasa" mnemonicParsing="false" onAction="#rbEmpCasaAction" text="Empates em casa" textFill="WHITE">
+                           <HBox.margin>
+                              <Insets left="2.0" right="2.0" />
+                           </HBox.margin>
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </RadioButton>
+                        <RadioButton fx:id="rbDerCasa" mnemonicParsing="false" onAction="#rdDerCasaAction" text="Derrotas em Casa" textFill="WHITE">
+                           <HBox.margin>
+                              <Insets left="2.0" right="8.0" />
+                           </HBox.margin>
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                        </RadioButton>
+                        <Button fx:id="btnFechar" mnemonicParsing="false" onAction="#btnFecharClick" style="-fx-background-color: SlateGray; -fx-border-color: white; -fx-border-radius: 2;" text="Fechar" textFill="WHITE">
+                           <HBox.margin>
+                              <Insets top="3.0" />
+                           </HBox.margin>
+                           <font>
+                              <Font name="System Bold" size="12.0" />
+                           </font>
+                           <cursor>
+                              <Cursor fx:constant="HAND" />
+                           </cursor></Button>
+                     </children>
+                     <VBox.margin>
+                        <Insets right="5.0" />
+                     </VBox.margin>
+                  </HBox>
+               </children>
+               <padding>
+                  <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+               </padding>
+            </VBox>
+         </children>
+      </StackPane>
+    </children>
+</AnchorPane>

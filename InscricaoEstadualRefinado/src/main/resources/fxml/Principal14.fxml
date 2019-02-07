@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="131.0" prefWidth="456.0" style="-fx-background-color: linear-gradient(from 50% 10% to 50%90%, Grey 0%, LightGray 100%);" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.PrincipalController">
+   <children>
+      <VBox prefHeight="131.0" prefWidth="456.0">
+         <children>
+            <HBox alignment="CENTER" prefHeight="30.0" prefWidth="456.0" spacing="100.0">
+               <children>
+                  <Label text="UF">
+                     <HBox.margin>
+                        <Insets top="5.0" />
+                     </HBox.margin>
+                  </Label>
+                  <Label text="Inscriçao Estadual">
+                     <HBox.margin>
+                        <Insets left="2.0" top="5.0" />
+                     </HBox.margin>
+                  </Label>
+               </children>
+            </HBox>
+            <HBox alignment="TOP_CENTER" prefHeight="45.0" prefWidth="456.0">
+               <children>
+                  <ComboBox fx:id="cmbUf" prefHeight="25.0" prefWidth="66.0">
+                     <HBox.margin>
+                        <Insets left="15.0" />
+                     </HBox.margin>
+                  </ComboBox>
+                  <TextField fx:id="txtFldInscricaoEst">
+                     <HBox.margin>
+                        <Insets left="60.0" />
+                     </HBox.margin>
+                  </TextField>
+               </children>
+            </HBox>
+            <HBox alignment="CENTER" prefHeight="55.0" prefWidth="456.0">
+               <children>
+                  <Button mnemonicParsing="false" text="foco" />
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>

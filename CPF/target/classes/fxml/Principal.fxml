@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.geometry.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="200" prefWidth="320" style="-fx-background-color: lightgreen;" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.PrincipalController">
+    <children>
+      <VBox alignment="CENTER" layoutX="85.0" prefHeight="200.0" prefWidth="150.0">
+         <children>
+              <Label fx:id="label" minHeight="16" minWidth="69" text="Digite CPF:" />
+            <TextField fx:id="txtFldCpf" />
+            <Label fx:id="label1" minHeight="16" minWidth="69" text="Digite CNPJ:">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+            </Label>
+            <TextField fx:id="txtFldCnpj" />
+              <Button fx:id="btnLimpar" onAction="#btnLimparClick" style="-fx-background-color: tomato;" text="Limpar" textFill="WHITE">
+               <VBox.margin>
+                  <Insets top="10.0" />
+               </VBox.margin>
+               <font>
+                  <Font name="System Bold" size="12.0" />
+               </font>
+            </Button>
+         </children>
+      </VBox>
+    </children>
+</AnchorPane>

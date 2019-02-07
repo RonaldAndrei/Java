@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import de.jensd.fx.glyphs.fontawesome.*?>
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.cell.*?>
+<?import java.lang.*?>
+<?import java.net.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="400.0" prefWidth="600.0" styleClass="mainFxmlClass" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="view.ChequeViewController">
+    <stylesheets>
+        <URL value="@/styles/Styles.css" />
+    </stylesheets>
+   <children>
+      <BorderPane prefHeight="400.0" prefWidth="600.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <center>
+            <TableView fx:id="tblVwCheque" prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+               <columns>
+                  <TableColumn fx:id="colCliente" maxWidth="1.7976931348623157E308" minWidth="230.0" prefWidth="230.0" style="-fx-alignment: center;" text="%lbl.cliente.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="cliente" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colAlinea" maxWidth="1.7976931348623157E308" minWidth="70.0" prefWidth="70.0" style="-fx-alignment: center;" text="%lbl.alinea.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="alinea" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colBanco" maxWidth="1.7976931348623157E308" minWidth="160.0" prefWidth="160.0" style="-fx-alignment: center;" text="%lbl.nomeBanco.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="banco" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colAgencia" maxWidth="1.7976931348623157E308" minWidth="130.0" prefWidth="130.0" style="-fx-alignment: center;" text="%lbl.agencia.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="agencia" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colConta" maxWidth="1.7976931348623157E308" minWidth="130.0" prefWidth="130.0" style="-fx-alignment: center;" text="%lbl.conta.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="conta" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colNumero" maxWidth="1.7976931348623157E308" minWidth="130.0" prefWidth="130.0" style="-fx-alignment: center;" text="%lbl.numero.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="numero" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colValor" maxWidth="1.7976931348623157E308" minWidth="130.0" prefWidth="130.0" style="-fx-alignment: center;" text="%lbl.valor.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="valor" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colEmissao" maxWidth="1.7976931348623157E308" minWidth="110.0" prefWidth="110.0" style="-fx-alignment: center;" text="%lbl.emissao.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="emissao" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colPago" maxWidth="1.7976931348623157E308" minWidth="110.0" prefWidth="110.0" style="-fx-alignment: center;" text="%lbl.pago.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="pago" />
+                     </cellValueFactory>
+                  </TableColumn>
+                  <TableColumn fx:id="colPagamento" maxWidth="1.7976931348623157E308" minWidth="110.0" prefWidth="110.0" style="-fx-alignment: center;" text="%lbl.pagamento.text">
+                     <cellValueFactory>
+                        <PropertyValueFactory property="pagamento" />
+                     </cellValueFactory>
+                  </TableColumn>
+               </columns>
+            </TableView>
+         </center>
+         <top>
+            <HBox>
+               <children>
+                  <Button fx:id="btnIncluir" contentDisplay="TOP" mnemonicParsing="false" onAction="#acIncluirCheque" prefWidth="70.0" text="%lbl.incluir.text" BorderPane.alignment="CENTER">                    
+                      <graphic>
+                        <FontAwesomeIconView fill="#07bc13" glyphName="PLUS" size="2EM" />
+                     </graphic>
+                  </Button>
+                  <Button fx:id="btnAlterar" contentDisplay="TOP" mnemonicParsing="false" onAction="#acAlterarCheque" prefWidth="70.0" text="%lbl.alterar.text">
+                     <graphic>
+                        <FontAwesomeIconView fill="#181897" glyphName="EDIT" size="2EM" />
+                     </graphic>
+                  </Button>
+                  <Button fx:id="btnExcluir" contentDisplay="TOP" mnemonicParsing="false" onAction="#acExcluirCheque" prefWidth="70.0" text="%lbl.excluir.text">
+                     <graphic>
+                        <FontAwesomeIconView fill="#bc1010" glyphName="CLOSE" size="2EM" />
+                     </graphic>
+                  </Button>
+               </children>
+               <BorderPane.margin>
+                  <Insets bottom="2.0" left="2.0" top="2.0" />
+               </BorderPane.margin>
+            </HBox>
+         </top>
+      </BorderPane>
+   </children>
+</AnchorPane>

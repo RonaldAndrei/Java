@@ -1,0 +1,8 @@
+view\CadJogadorController.class
+view\PrincipalController.class
+model\Time.class
+model\Game.class
+application\MainApp.class
+view\FormJogadorController.class
+utilit\Dados.class
+model\Jogador.class

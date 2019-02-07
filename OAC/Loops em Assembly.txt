@@ -1,0 +1,154 @@
+Loops while, do/while e for usando assembly RiSC-16
+    	Aqui pretendo mostrar as estruturas de loop while, do/while e for usando o assembly da arquitetura RiSC-16. 
+	Você pode encontrar maiores detalhes sobre essa arquitetura aqui.
+
+    	As estruturas de repetição são tão somente estruturas de decisão repetidas. 
+	Você pode ver como estruturas de decisão nessa arquitetura podem ser feitas neste artigo que escrevi.
+
+    	Antes de tudo, vamos entender como seriam essas estruturas de repetição usando estruturas de decisão. 
+	A estrutura while poderia ser entendida assim:
+
+SE (condição é verdadeira){
+executar tais instruções
+voltar para o a linha 1 }
+SENÃO {
+saltar para a linha após a estrutura while.
+    Sendo assim, o que faremos para que nosso código se comporte desse modo, é fazer um teste, desviar o fluxo do programa caso o teste do programa seja verdadeiro, executar as ações que precisamos, e forçar um pulo novamente para o inicio do teste. Lembre-se que o teste não inicia na instrução BEQ da estrutura de decisão, mas sim na instrução NAND.
+
+    Façamos o seguinte programa usando sintaxe parecida a C/C++/JAVA:
+    
+    i = 5;
+    soma = 0;
+    while (i >= 0){
+        soma = soma + i;
+        i = i - 1;
+    }
+    write soma;
+
+    O programa em Assembly RiSC-16 pode ser o seguinte:
+         lw 1,0,i
+         lw 2,0,soma
+         movi 3,512     #1000000000000000
+         lui 4,511      #0111111111000000
+         addi 4,4,63    #0000000000111111
+teste:   nand 5,1,3     #1111111111111111 ( >= 0)ou 0111111111111111 ( < 0)
+         beq 5,4,done   #Espera-se que a comparação seja falsa
+then:    add 2,1,2
+         addi 1,1,-1
+         beq 0,0,teste
+done:    sw 2,0,soma
+         halt
+i:       .fill 5
+soma:    .fill 0
+    Segue uma descrição do que é feito em cada linha do programa acima:
+Carrega no registrador 1 o valor assinalado pelo label i;
+Carrega no registrador 2 o valor assinalado pelo label soma;
+Carrega no registrador 3 o número binário 1000000000000000;
+Carrega no registrador 4 o número binário 0111111111000000;
+Adiciona ao registrador 4 o número binário 0000000000111111;
+Faz NAND entre os registradores 1 e 3. Armazena o resultado no registrador 5. Ele conterá 1111111111111111  (se o número for maior ou iguai a zero) ou 0111111111111111 (se o número for menor que zero);
+Desvia o programa para a linha assinalada pelo label done caso o o número i seja menor que zero;
+No caso do teste da linha 7 ser falso, adiciona o valor contigo no registrador 2 com o valor contido no registrador 1 e armazena no registrador 2;
+Adiciona o valor no registrador 1 com -1 e armazena no registrador 1;
+Força o desvio para a linha assinalada pelo label teste.
+Caso o teste da linha 7 seja verdadeiro, o conteúdo do registrador 2 (soma) será escrito na memória no endereço assinalado pelo label soma;
+Para o programa;
+    As linhas 13 e 14 servem para inicializar as variáveis i e soma;
+
+    A arquitetura não tem uma instrução de input e output, então você escolhe como quer guardar o resultado: ou em um registrador usando o camando LW ou em alguma posição da memória usando o comando SW (no código acima estou escrevendo o resultado final na memória).
+
+    Observe o seguinte código:
+
+    i = -5;
+    soma = 0;
+    while (i < 0){
+        soma = soma + i;
+        i = i + 1;
+    }
+    write soma;
+
+    Em assembler RiSC-16 poderemos ter:
+         lw 1,0,i
+         lw 2,0,soma
+         movi 3,512     #10000000000000000
+         lui 4,511
+         addi 4,4,63
+teste:   nand 5,1,3     #11111111111111111 ( >= 0)ou 01111111111111111 ( < 0)
+         beq 5,4,then   #Espera-se que a comparação seja verdadeira
+done:    sw 2,0,soma
+         halt
+then:    add 2,1,2
+         addi 1,1,-1
+         beq 0,0,teste
+i:       .fill -5
+soma:    .fill 0
+    Observe que neste exemplo, espera-se que a comparação seja verdadeira, então as instruções que serão executadas dentro do laço while devem ser deslocadas para depois das instruções que serão executadas fora do laço while.
+
+    Um código semelhante para while(i > 0) poderia ser:
+         lw 1,0,i
+         lw 2,0,soma
+         movi 3,512     #1000000000000000
+         lui 4,511      #0111111111000000
+         addi 4,4,63    #0000000000111111
+teste:   nand 5,1,3     #1111111111111111 ( >= 0)ou 0111111111111111 ( < 0)
+         beq 1,0,then
+         beq 5,4,done   #Espera-se que a comparação seja falsa
+then:    add 2,1,2
+         addi 1,1,-1
+         beq 0,0,teste
+done:    sw 2,0,soma
+         halt
+i:       .fill 5
+soma:    .fill 0
+    A diferença entre as estruturas de repetição while e do-while é que primeiro deve-se executar uma ação e somente depois fazer a comparação. Então, nosso primeiro exemplo de código ficaria assim:
+
+    i = 5;
+    soma = 0;
+    do{
+        soma = soma + i;
+        i = i - 1;
+    }while (i >= 0);
+    write soma;
+
+    E o código em assembler RiSC-16 poderia ser este:
+         lw 1,0,i
+         lw 2,0,soma
+         movi 3,512     #1000000000000000
+         lui 4,511      #0111111111000000
+         addi 4,4,63    #0000000000111111
+then:    add 2,1,2
+         addi 1,1,-1
+         beq 0,0,teste
+teste:   nand 5,1,3     #1111111111111111 ( >= 0)ou 0111111111111111 ( < 0)
+         beq 5,4,done   #Espera-se que a comparação seja falsa
+done:    sw 2,0,soma
+         halt
+i:       .fill 5
+soma:    .fill 0
+    A única coisa que fizemos foi colocar a parte then antes do teste!
+
+    A estrutura de repetição for se comporta do mesmo jeito. Veja um exemplo:
+    
+    soma = 0;
+    for (i = 5; i >= 0; i--){
+        soma = soma + i;
+    }
+    write soma;
+
+       lw 1,0,i
+       lw 2,0,soma
+       movi 3,512
+       lui 4,511
+       addi 4,4,63
+       nand 5,1,3
+teste: beq 5,4,done
+       add 2,2,1
+       addi 1,1,-1
+       beq 0,0,teste
+done:  sw 2,0,soma
+       halt
+i:     .fill 5
+soma:  .fill 0
+    Parecido com o laço while bastando ter cuidado na parte do teste. Se o teste for para maior ou igual a zero, os comando de dentro da estrutura vêem logo apos o teste. Se o teste for para menor que zero, os comandos de dentro da estrutura devem ser deslocados.
+
+    Espero ter sido claro com esses exemplos. Quaisquer dúvidas, comente que tentarei responder o mais breve possível!

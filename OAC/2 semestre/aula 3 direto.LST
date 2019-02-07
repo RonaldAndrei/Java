@@ -1,0 +1,17 @@
+8051 Assembler           Version 1.00   11/17/115 21:12:09    Page 1
+C:\Users\ronald\Documents\UEPG\2º Ano\OAC\2 semestre\aula 3 direto.a51
+
+
+
+    1 0000                      org 0000h
+    2 0000              ini:
+    3 0000 7520BB               mov 20h, #0bbh ;movendo imediato pelo # para 20h
+    4 0003 852023               mov 23h, 20h   ;movendo o conteudo de 20h para 23h
+    5 0006 E5A0                 mov a, p2      ;
+    6 0008 2523                 add a, 23h
+    7 000A              end
+
+Defined Symbols:
+
+Defined Labels:
+  INI                                       000000  0

@@ -1,0 +1,7 @@
+Samir;4;Zagueiro
+Marcelo;2;Lateral-esquerdo
+Alan Patrick;7;Meio-campo
+Ronaldinho;10;Meio-ofensivo
+Paolo Guerrero;9;Atacante
+Thiago Silva;3;Zagueiro
+Paulo Victor;1;Goleiro

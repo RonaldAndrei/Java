@@ -1,0 +1,20 @@
+8051 Assembler           Version 1.00   11/03/115 21:48:08    Page 1
+C:\Users\ronald\Documents\UEPG\2º Ano\OAC\2 semestre\aula 1.a51
+
+
+
+    1 0000              ;acionar os ports
+    2 0000              
+    3 0000                      org 0000h
+    4 0000              
+    5 0000              inicio:
+    6 0000 758000               mov p0, #00h    ;nivel baixo
+    7 0003 7580FF               mov p0, #0ffh    ;nivel alto
+    8 0006              
+    9 0006 020000               jmp     inicio
+   10 0009              end
+
+Defined Symbols:
+
+Defined Labels:
+  INICIO                                    000000  0
